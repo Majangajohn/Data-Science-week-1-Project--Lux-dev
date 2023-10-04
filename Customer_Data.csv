@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,age,email,country,postal_code,purchase_history,monthly_payment,contract_length,data_usage,customer_service_rating,Churn
+1,Flem,Boultwood,65,fboultwood0@imgur.com,Brazil,76420-000,iPhone,497.51,24,85.12,2,TRUE
+2,Ciel,Hearse,44,chearse1@xinhuanet.com,France,38509 CEDEX,Google Pixel,332.1,1,15.92,2,TRUE
+3,Loren,Astley,53,lastley2@lycos.com,Peru,,Google Pixel,390.71,16,14.68,5,FALSE
+4,Larine,Ferfulle,19,lferfulle3@wp.com,Indonesia,,Google Pixel,541.86,21,50.64,5,FALSE
+5,Chrissy,Jerrans,34,cjerrans4@wikia.com,China,,iPhone,652.51,12,76.28,5,FALSE
+6,Douglas,Gerber,67,dgerber5@bbb.org,Russia,143912,iPhone,615.98,14,33.45,5,TRUE
+7,Pedro,Ashment,43,pashment6@4shared.com,Poland,46-020,iPhone,120.85,22,4.64,3,FALSE
+8,Andie,MacLennan,33,amaclennan7@newyorker.com,Indonesia,,iPhone,2.75,17,50.86,3,TRUE
+9,Ian,Threadgill,38,ithreadgill8@ow.ly,China,,iPhone,710.28,8,85.56,5,FALSE
+10,Mateo,Ledingham,62,mledingham9@ft.com,China,,Samsung Galaxy,485.41,9,52.79,3,TRUE
+11,Corbett,Di Napoli,47,cdinapolia@jugem.jp,Canada,N1S,Google Pixel,260.1,9,56.5,2,TRUE
+12,Silvano,Eddison,54,seddisonb@businessinsider.com,Chile,,iPhone,434.89,3,47.9,5,FALSE
+13,Zacharia,Jennions,70,zjennionsc@dailymotion.com,Czech Republic,289 34,Google Pixel,830.02,8,71.24,2,TRUE
+14,Bram,Hudghton,42,bhudghtond@latimes.com,Hungary,9704,Google Pixel,869.74,12,68.89,3,TRUE
+15,Wally,Coughtrey,25,wcoughtreye@sbwire.com,Croatia,23250,iPhone,521.94,8,24.66,5,TRUE
+16,Catherine,Skeffington,46,cskeffingtonf@tripadvisor.com,Mongolia,,Samsung Galaxy,753,22,2.71,5,TRUE
+17,Yovonnda,Rechert,66,yrechertg@jalbum.net,China,,Google Pixel,994.25,22,89.95,4,FALSE
+18,Tab,Pimblott,38,tpimblotth@ycombinator.com,Indonesia,,Samsung Galaxy,967.18,24,98.94,5,TRUE
+19,Ellwood,Vigne,30,evignei@bloomberg.com,Macedonia,1011,iPhone,352.03,13,38.1,3,FALSE
+20,Hoebart,Kiraly,22,hkiralyj@marriott.com,Philippines,9314,iPhone,440.06,13,93.78,4,FALSE
+21,Lurleen,Aubert,40,laubertk@mapquest.com,Tajikistan,,iPhone,37.92,21,5.75,3,FALSE
+22,Kira,Esel,44,kesell@ted.com,Indonesia,,iPhone,472.22,18,94.83,5,TRUE
+23,Wyn,Lisciardelli,29,wlisciardellim@boston.com,China,,iPhone,421.69,17,91.17,3,TRUE
+24,Regan,Hall-Gough,75,rhallgoughn@goodreads.com,Nigeria,,Samsung Galaxy,703.76,17,49.6,4,FALSE
+25,Emily,Sailer,59,esailero@cbsnews.com,Sweden,171 64,Google Pixel,749.41,7,62.08,3,TRUE
+26,Barnie,Bryant,70,bbryantp@cbslocal.com,Argentina,5442,Samsung Galaxy,682.52,3,81.33,1,FALSE
+27,Reeva,Nys,23,rnysq@discuz.net,Venezuela,,Google Pixel,424.97,1,75.21,5,TRUE
+28,Vasily,Iredell,23,viredellr@weibo.com,Canada,L9S,iPhone,979.63,14,28.32,3,TRUE
+29,Ira,Plewright,36,iplewrights@tinyurl.com,Indonesia,,Samsung Galaxy,239.86,18,16.38,2,FALSE
+30,Leeanne,Lavens,75,llavenst@seattletimes.com,Philippines,2106,Google Pixel,650,7,42.24,1,TRUE
+31,Jennette,Lemmer,67,jlemmeru@wikispaces.com,Mozambique,,iPhone,249.35,9,35.24,2,TRUE
+32,Alfons,Uc,48,aucv@slideshare.net,China,,Google Pixel,807.79,15,90.56,2,TRUE
+33,Thorin,Sich,24,tsichw@dmoz.org,China,,iPhone,875.13,11,88.5,5,TRUE
+34,Mandy,Shales,82,mshalesx@devhub.com,Japan,315-0022,Google Pixel,881.76,24,2.46,4,TRUE
+35,Bertram,Manchett,18,bmanchetty@blinklist.com,China,,Samsung Galaxy,279.15,13,61.79,4,TRUE
+36,Gretal,Foulks,67,gfoulksz@wsj.com,Sweden,556 31,Samsung Galaxy,761.92,22,4.17,3,FALSE
+37,Clerc,Whickman,39,cwhickman10@bbc.co.uk,Poland,42-293,iPhone,230.08,7,16.27,2,FALSE
+38,Eugenio,Anshell,85,eanshell11@alexa.com,Philippines,6039,Google Pixel,429.78,9,18.91,2,FALSE
+39,Percival,Noller,77,pnoller12@hostgator.com,Italy,84124,Google Pixel,437.24,22,9.65,4,TRUE
+40,Hayyim,Kidby,61,hkidby13@vinaora.com,France,78181 CEDEX,Samsung Galaxy,515.91,17,48.01,1,FALSE
+41,Fey,Fury,74,ffury14@sina.com.cn,China,,Google Pixel,982.98,9,12.35,4,FALSE
+42,Lucian,Hentze,37,lhentze15@paginegialle.it,Germany,35687,Google Pixel,63.78,13,62.39,1,FALSE
+43,Taber,Franscioni,22,tfranscioni16@bloomberg.com,Mauritius,,iPhone,10.89,23,73.78,5,TRUE
+44,Phoebe,Wastall,65,pwastall17@nyu.edu,Vietnam,,iPhone,155.87,6,22.41,1,TRUE
+45,Jard,Baudet,23,jbaudet18@yahoo.com,Sweden,184 34,Samsung Galaxy,159.29,21,41.33,4,TRUE
+46,Emmy,Flori,42,eflori19@pbs.org,China,,iPhone,854.46,23,41.78,1,FALSE
+47,Sayre,Stenson,75,sstenson1a@disqus.com,Ukraine,,Samsung Galaxy,901.22,8,64.98,1,TRUE
+48,Bail,Wearn,37,bwearn1b@woothemes.com,Slovenia,8332,iPhone,215.42,14,95.88,3,FALSE
+49,Ursala,O' Mahony,58,uomahony1c@zimbio.com,United States,33673,Google Pixel,520.13,4,96.48,4,TRUE
+50,Dulcie,de Mullett,63,ddemullett1d@cisco.com,Indonesia,,Samsung Galaxy,230.49,10,44.98,3,FALSE
+51,Benita,Moyle,74,bmoyle1e@linkedin.com,China,,Samsung Galaxy,422.44,8,17.45,5,TRUE
+52,Oswald,Knevett,80,oknevett1f@vistaprint.com,China,,Samsung Galaxy,957.31,6,90.26,5,FALSE
+53,Miner,Osbiston,54,mosbiston1g@example.com,Russia,157460,iPhone,588.83,13,41.38,4,TRUE
+54,Myrtie,Mattin,51,mmattin1h@twitpic.com,China,,Google Pixel,446.38,14,29.46,1,TRUE
+55,Guillemette,Kollach,48,gkollach1i@hostgator.com,China,,iPhone,912.34,15,47.5,2,TRUE
+56,Neel,Palfreman,49,npalfreman1j@youtube.com,Germany,50674,Samsung Galaxy,64.49,15,46.75,5,TRUE
+57,Adan,Langer,18,alanger1k@shop-pro.jp,Sweden,932 33,iPhone,132.02,4,13.52,3,TRUE
+58,Bambie,Stanistreet,59,bstanistreet1l@tumblr.com,Morocco,,Google Pixel,120.5,20,40.17,2,TRUE
+59,Roselia,Cummings,48,rcummings1m@ucsd.edu,Philippines,2422,iPhone,191.36,5,97.94,2,FALSE
+60,Vincent,Beeken,72,vbeeken1n@virginia.edu,Portugal,2425-405,Samsung Galaxy,940.28,2,44.89,5,TRUE
+61,Stirling,Goatcher,58,sgoatcher1o@irs.gov,Argentina,9420,Samsung Galaxy,148.7,3,24.77,5,FALSE
+62,Teodoor,Greenless,57,tgreenless1p@nifty.com,Azerbaijan,,Google Pixel,676.79,3,5.99,5,FALSE
+63,Corey,Corkish,44,ccorkish1q@mapy.cz,France,37072 CEDEX 2,Google Pixel,157.96,20,93.58,1,TRUE
+64,Marty,Reijmers,63,mreijmers1r@example.com,Indonesia,,iPhone,529.04,8,95.09,3,TRUE
+65,Evey,Seemmonds,30,eseemmonds1s@whitehouse.gov,New Zealand,3158,Samsung Galaxy,418.96,6,93.37,3,TRUE
+66,Pru,Cheales,23,pcheales1t@tripadvisor.com,Malawi,,Samsung Galaxy,968.16,23,40.27,2,TRUE
+67,Tabbitha,Labbe,54,tlabbe1u@reference.com,Brazil,18560-000,iPhone,852.68,3,59.59,3,FALSE
+68,Lammond,Dodshun,32,ldodshun1v@blogger.com,China,,Google Pixel,640.85,20,51.94,5,TRUE
+69,Georgeanna,Freer,67,gfreer1w@cornell.edu,Philippines,7030,Samsung Galaxy,251.18,1,25.72,2,FALSE
+70,Gradey,Bolliver,25,gbolliver1x@shinystat.com,Indonesia,,Samsung Galaxy,210.67,17,90.35,1,TRUE
+71,Broddy,McCunn,56,bmccunn1y@deviantart.com,China,,Google Pixel,718.64,11,53.99,3,FALSE
+72,Conn,Sleaford,83,csleaford1z@parallels.com,Bangladesh,3109,iPhone,296.55,17,97.76,5,FALSE
+73,Kimberlee,Imm,50,kimm20@jalbum.net,China,,Samsung Galaxy,360.53,13,63.36,4,TRUE
+74,Sophie,Eidler,43,seidler21@bloglines.com,Russia,606084,Samsung Galaxy,281.57,22,84.17,1,TRUE
+75,Sharla,Burtonshaw,65,sburtonshaw22@reddit.com,Poland,44-295,Samsung Galaxy,79.92,19,13.93,4,TRUE
+76,Vina,Mortel,73,vmortel23@usatoday.com,Serbia,,iPhone,493.98,22,57.21,1,FALSE
+77,Beatrix,Kirkbright,32,bkirkbright24@squidoo.com,China,,Google Pixel,930.89,17,79.01,2,FALSE
+78,Claire,Boord,48,cboord25@dailymotion.com,China,,iPhone,915.07,13,97.08,1,TRUE
+79,Madison,Roubert,64,mroubert26@bravesites.com,Indonesia,,iPhone,900.45,19,97.17,4,FALSE
+80,Oberon,ducarme,45,oducarme27@mozilla.com,Sweden,590 14,iPhone,284.21,15,52.77,5,FALSE
+81,Willy,Chennells,31,wchennells28@github.com,Belarus,,iPhone,257.27,4,52.06,3,TRUE
+82,Malva,Penton,51,mpenton29@surveymonkey.com,Portugal,3720-727,iPhone,726.77,15,52.31,4,TRUE
+83,Justina,Shovelbottom,54,jshovelbottom2a@issuu.com,Pakistan,55000,Google Pixel,468.83,22,87.24,1,TRUE
+84,Fran,Schulz,48,fschulz2b@indiatimes.com,China,,Google Pixel,480.93,10,78.96,5,TRUE
+85,Glenn,Kembley,32,gkembley2c@mlb.com,Russia,142817,Google Pixel,899.83,24,88.2,5,FALSE
+86,Bobbye,Darragh,52,bdarragh2d@taobao.com,China,,Samsung Galaxy,979.74,6,11.17,3,FALSE
+87,Gertrude,Yon,63,gyon2e@wisc.edu,Thailand,31110,Samsung Galaxy,740.37,12,46.39,5,TRUE
+88,Anallise,Hogsden,73,ahogsden2f@discovery.com,Democratic Republic of the Congo,,Google Pixel,79.52,10,18.33,3,TRUE
+89,Leanora,Showell,28,lshowell2g@opensource.org,Indonesia,,iPhone,655.4,20,87.99,2,FALSE
+90,Stephenie,Coventon,41,scoventon2h@4shared.com,Indonesia,,Samsung Galaxy,693.84,17,68.74,3,TRUE
+91,Tallie,Nelane,59,tnelane2i@fc2.com,Portugal,4525-274,Google Pixel,545.74,10,52.35,1,FALSE
+92,Kathe,Jennick,79,kjennick2j@whitehouse.gov,Portugal,2530-631,iPhone,231.46,21,92.66,4,TRUE
+93,Gabbie,McNae,26,gmcnae2k@yahoo.co.jp,Poland,46-082,Samsung Galaxy,219.97,20,3.25,5,FALSE
+94,Allina,Seeger,22,aseeger2l@ca.gov,Mexico,37853,Samsung Galaxy,912.14,20,21.85,3,TRUE
+95,Ivor,Graysmark,34,igraysmark2m@istockphoto.com,Indonesia,,Google Pixel,646.73,18,92.24,5,TRUE
+96,Paige,Shearsby,43,pshearsby2n@so-net.ne.jp,Croatia,10437,Samsung Galaxy,730.98,20,6.96,4,FALSE
+97,Den,Owttrim,29,dowttrim2o@taobao.com,Venezuela,,Samsung Galaxy,564.56,17,43.81,2,TRUE
+98,Roxane,Rebert,24,rrebert2p@clickbank.net,Canada,N2Z,Google Pixel,997.36,11,58.18,5,TRUE
+99,Ravi,O'Kinedy,85,rokinedy2q@privacy.gov.au,Peru,,Samsung Galaxy,319.68,4,82.22,5,FALSE
+100,Adria,Astie,75,aastie2r@pbs.org,Peru,,iPhone,706.18,24,50.11,3,TRUE
+101,Even,Grebner,20,egrebner2s@biblegateway.com,Cuba,,Google Pixel,411.43,24,74.77,2,TRUE
+102,Elyse,Raddish,27,eraddish2t@oakley.com,Thailand,55000,Google Pixel,262.4,2,82.34,5,TRUE
+103,Brady,Absolom,40,babsolom2u@nyu.edu,Philippines,1103,Google Pixel,848.74,19,35.78,5,FALSE
+104,Heather,Gibling,42,hgibling2v@gravatar.com,Bosnia and Herzegovina,,Google Pixel,729.65,11,15.47,1,TRUE
+105,Almire,Livingstone,60,alivingstone2w@earthlink.net,Palestinian Territory,,Samsung Galaxy,382.09,22,34.25,1,FALSE
+106,Elvis,O'Keeffe,31,eokeeffe2x@baidu.com,Nigeria,,iPhone,849.72,8,37.23,1,FALSE
+107,Francklyn,Naulls,60,fnaulls2y@list-manage.com,Iran,,Google Pixel,598.27,4,15.28,3,TRUE
+108,Mandi,Middup,48,mmiddup2z@mozilla.com,Indonesia,,iPhone,814.27,22,45.46,4,TRUE
+109,Cody,Blunderfield,83,cblunderfield30@joomla.org,Russia,369394,Google Pixel,72.01,14,97.91,1,FALSE
+110,Corliss,Le Pruvost,44,clepruvost31@aboutads.info,Philippines,6407,iPhone,258.69,21,84.85,2,TRUE
+111,Berthe,Douse,31,bdouse32@nba.com,China,,Samsung Galaxy,386.77,7,13.91,4,TRUE
+112,Adelle,Hovell,80,ahovell33@nydailynews.com,Indonesia,,Google Pixel,788.45,1,90.8,5,FALSE
+113,Brittney,Muge,73,bmuge34@blogger.com,Portugal,4815-075,Google Pixel,710.52,19,12.75,1,TRUE
+114,Darla,Broadis,24,dbroadis35@ihg.com,China,,iPhone,724.03,18,17.92,4,TRUE
+115,Chrissie,Hallawell,77,challawell36@engadget.com,Philippines,5702,iPhone,706.39,2,73.65,1,TRUE
+116,Elnar,Ballach,82,eballach37@blogtalkradio.com,Albania,,Samsung Galaxy,479.94,13,78.19,5,TRUE
+117,Lisha,Hughman,63,lhughman38@msn.com,Cameroon,,Google Pixel,528.26,3,44.57,4,TRUE
+118,Dniren,Clarage,62,dclarage39@a8.net,China,,Google Pixel,14.22,15,69.04,3,TRUE
+119,See,Garlinge,32,sgarlinge3a@barnesandnoble.com,Portugal,4640-540,iPhone,586.26,2,73.84,1,TRUE
+120,Sharia,Schiell,80,sschiell3b@pagesperso-orange.fr,Sweden,691 26,Google Pixel,121.4,13,32.69,5,FALSE
+121,Lotti,Boyer,85,lboyer3c@ustream.tv,Russia,386340,iPhone,812.03,17,13.05,5,TRUE
+122,Aluino,Czyz,27,aczyz3d@arizona.edu,China,,Google Pixel,57.53,14,94.42,5,FALSE
+123,Rose,Bottle,34,rbottle3e@slideshare.net,Sri Lanka,10600,iPhone,903.49,14,63.86,2,TRUE
+124,Roshelle,Lanahan,46,rlanahan3f@feedburner.com,Honduras,,Google Pixel,575.42,20,38.54,5,FALSE
+125,Yancy,McAless,43,ymcaless3g@livejournal.com,Brazil,35588-000,Samsung Galaxy,596.58,5,3.27,3,TRUE
+126,Brewer,Dockreay,29,bdockreay3h@multiply.com,France,67311 CEDEX,iPhone,624.58,4,51.94,1,TRUE
+127,Alvera,Farra,75,afarra3i@shutterfly.com,China,,iPhone,980.51,24,75.85,3,TRUE
+128,Paulie,Strafen,23,pstrafen3j@mysql.com,Sweden,561 50,Google Pixel,321.78,15,25.41,3,FALSE
+129,Brendis,Loynton,50,bloynton3k@patch.com,Brazil,55750-000,Google Pixel,668.27,18,85.73,2,TRUE
+130,Giovanna,Lyosik,20,glyosik3l@nasa.gov,Russia,363125,iPhone,225.25,19,34.99,5,FALSE
+131,Nataniel,Linnemann,58,nlinnemann3m@businesswire.com,Portugal,2760-012,Google Pixel,237.01,11,12.51,4,TRUE
+132,Olav,Gerram,85,ogerram3n@dot.gov,Poland,32-593,Samsung Galaxy,571.97,18,6.78,4,TRUE
+133,Ichabod,Starsmeare,55,istarsmeare3o@alibaba.com,Peru,,iPhone,838.34,21,45.16,2,TRUE
+134,Carmelle,Ruseworth,71,cruseworth3p@myspace.com,China,,iPhone,966.31,15,64.12,2,FALSE
+135,Willow,Bestman,58,wbestman3q@theatlantic.com,Greece,,Samsung Galaxy,632.29,2,13.37,2,FALSE
+136,Andris,Yerrall,32,ayerrall3r@oaic.gov.au,Russia,309255,iPhone,207.11,13,85.5,5,TRUE
+137,Stanly,Crick,26,scrick3s@facebook.com,China,,iPhone,140.68,4,11.05,4,FALSE
+138,Gael,Lacheze,55,glacheze3t@cyberchimps.com,France,75054 CEDEX 01,Samsung Galaxy,919.57,11,42.37,5,TRUE
+139,Charleen,De Zamudio,49,cdezamudio3u@miitbeian.gov.cn,Indonesia,,Samsung Galaxy,402.08,9,95.19,2,FALSE
+140,Maddie,Sutter,51,msutter3v@soundcloud.com,China,,iPhone,56.76,20,71.37,2,TRUE
+141,Brandon,Stavers,58,bstavers3w@oracle.com,Indonesia,,Samsung Galaxy,924.5,17,79.04,3,TRUE
+142,Shepperd,Deere,84,sdeere3x@berkeley.edu,Brazil,39520-000,Google Pixel,61.23,13,30.97,2,TRUE
+143,Cosme,Beran,62,cberan3y@elegantthemes.com,Russia,366510,Samsung Galaxy,107.4,12,29.5,1,TRUE
+144,Ingaborg,Maybury,27,imaybury3z@1und1.de,Philippines,8011,Google Pixel,927.28,19,29.51,4,TRUE
+145,Erminia,Welbeck,83,ewelbeck40@sun.com,Brazil,88130-000,Google Pixel,371.51,23,19.17,3,FALSE
+146,Lorie,Davidson,36,ldavidson41@usda.gov,Syria,,Samsung Galaxy,972.67,8,73.76,4,TRUE
+147,Raff,Bowart,36,rbowart42@sciencedaily.com,Russia,303158,Samsung Galaxy,243,21,58.74,1,FALSE
+148,Yancey,Olliver,29,yolliver43@joomla.org,Russia,102213,Samsung Galaxy,897.73,24,38.87,5,FALSE
+149,Wynnie,Schwant,43,wschwant44@tinypic.com,Portugal,9625-025,Google Pixel,175.32,7,90.66,1,TRUE
+150,Morissa,Eagell,83,meagell45@altervista.org,Indonesia,,Google Pixel,17.51,10,33.36,4,FALSE
+151,Josselyn,Webley,19,jwebley46@craigslist.org,Colombia,523528,iPhone,533.33,19,81.69,2,FALSE
+152,Christy,Gonzalo,57,cgonzalo47@youku.com,United States,28263,iPhone,883.15,7,80.31,1,TRUE
+153,Nannette,Sabater,20,nsabater48@macromedia.com,China,,Samsung Galaxy,884.39,4,27.74,5,FALSE
+154,Kayne,Smaile,74,ksmaile49@timesonline.co.uk,Palestinian Territory,,Google Pixel,814.87,22,51.34,3,FALSE
+155,Paten,Yeoman,57,pyeoman4a@vistaprint.com,Czech Republic,571 01,Google Pixel,34.5,14,91.92,1,FALSE
+156,Gussie,Learman,18,glearman4b@woothemes.com,China,,Google Pixel,58.95,22,80.27,1,FALSE
+157,Eachelle,Densell,32,edensell4c@pcworld.com,United States,22205,iPhone,92.2,15,7.55,3,FALSE
+158,Marlena,Miche,19,mmiche4d@shop-pro.jp,Japan,259-1220,Google Pixel,640.33,8,91.25,4,TRUE
+159,Daryle,Lewinton,51,dlewinton4e@yale.edu,Peru,,Samsung Galaxy,990.65,23,39.27,4,TRUE
+160,Ivette,Ockwell,73,iockwell4f@delicious.com,Czech Republic,358 01,Samsung Galaxy,52.07,4,41.43,4,FALSE
+161,Joelle,Hanington,82,jhanington4g@adobe.com,China,,iPhone,7.58,5,95.7,3,TRUE
+162,Chad,Delete,26,cdelete4h@google.com,Portugal,2580-444,Samsung Galaxy,269.17,19,22.19,2,FALSE
+163,Parsifal,Chevin,75,pchevin4i@engadget.com,Indonesia,,Google Pixel,829.69,10,25.54,3,TRUE
+164,Beale,Chataignier,48,bchataignier4j@narod.ru,Serbia,,Google Pixel,42.57,23,67.38,5,TRUE
+165,Melly,Baldazzi,52,mbaldazzi4k@harvard.edu,Brazil,37490-000,Google Pixel,329.61,14,4.18,5,FALSE
+166,Kati,Whitter,21,kwhitter4l@cbslocal.com,Kazakhstan,,Google Pixel,788.97,12,89.53,5,FALSE
+167,Armstrong,Pashan,47,apashan4m@free.fr,Russia,361203,Samsung Galaxy,324.35,22,81.52,4,FALSE
+168,Charlotte,Clogg,50,cclogg4n@webeden.co.uk,China,,Google Pixel,953.8,9,17.79,2,TRUE
+169,Waylen,Meni,37,wmeni4o@oracle.com,Russia,427997,Google Pixel,915.22,17,76.43,3,TRUE
+170,Andie,Paniman,65,apaniman4p@ycombinator.com,Indonesia,,Google Pixel,519.59,4,4.57,5,TRUE
+171,Powell,Kettle,34,pkettle4q@altervista.org,Colombia,910008,Samsung Galaxy,887.57,13,43.81,1,FALSE
+172,Zsazsa,Plunkett,61,zplunkett4r@about.me,Indonesia,,Google Pixel,44.15,1,56.14,3,TRUE
+173,Annabella,Huddy,52,ahuddy4s@wired.com,Indonesia,,Google Pixel,71.42,8,39.95,3,TRUE
+174,Vinson,Sondland,51,vsondland4t@loc.gov,Nigeria,,Samsung Galaxy,959.58,17,30.8,5,FALSE
+175,Laurena,Hartopp,29,lhartopp4u@blogtalkradio.com,China,,Google Pixel,13.01,14,53.79,3,TRUE
+176,Alard,Hairsine,31,ahairsine4v@omniture.com,Philippines,5417,Samsung Galaxy,940.43,10,66.45,3,TRUE
+177,Kennett,Cordeix,28,kcordeix4w@abc.net.au,France,92545 CEDEX,Samsung Galaxy,42.11,24,82.08,4,TRUE
+178,Caz,Cruikshank,34,ccruikshank4x@booking.com,Greece,,Samsung Galaxy,427.36,4,71.66,2,TRUE
+179,Josepha,Aylmore,62,jaylmore4y@tiny.cc,Brazil,62800-000,Google Pixel,550.79,4,11.18,3,FALSE
+180,Holden,Shallcross,56,hshallcross4z@xinhuanet.com,Bulgaria,8359,Samsung Galaxy,252.21,2,28.64,4,FALSE
+181,Giselle,Frays,71,gfrays50@goo.gl,Indonesia,,iPhone,77.38,2,87.56,1,FALSE
+182,Fan,Woolham,47,fwoolham51@quantcast.com,Poland,39-410,iPhone,591.8,21,21.33,4,TRUE
+183,Minna,Alelsandrovich,34,malelsandrovich52@barnesandnoble.com,Peru,,Google Pixel,567.92,11,98.09,2,TRUE
+184,Any,Zannelli,81,azannelli53@squidoo.com,Indonesia,,Google Pixel,852.64,22,23.2,4,FALSE
+185,Tadeo,Stennes,72,tstennes54@admin.ch,Brazil,15600-000,Samsung Galaxy,750.24,13,39.05,2,FALSE
+186,Hayes,Lemasney,64,hlemasney55@jugem.jp,Greece,,Samsung Galaxy,898.01,23,63.31,3,TRUE
+187,Sissie,Dulany,53,sdulany56@yahoo.co.jp,United States,30316,iPhone,327.29,22,56.8,5,FALSE
+188,Drucill,Acarson,50,dacarson57@unesco.org,China,,Google Pixel,813.49,19,90.68,3,FALSE
+189,Jo,Snowding,31,jsnowding58@accuweather.com,Indonesia,,iPhone,10.94,20,28.43,4,TRUE
+190,Geoffry,Wattinham,34,gwattinham59@addthis.com,Russia,171067,Samsung Galaxy,417.92,18,16.96,2,FALSE
+191,Tricia,Snuggs,73,tsnuggs5a@feedburner.com,China,,iPhone,166.15,13,93.65,2,FALSE
+192,Boyd,Northley,82,bnorthley5b@cyberchimps.com,China,,iPhone,718.14,22,80.38,4,TRUE
+193,Theodoric,Cockerton,47,tcockerton5c@csmonitor.com,Russia,140231,iPhone,421.86,5,87.75,1,TRUE
+194,Clay,Pithie,29,cpithie5d@amazon.co.jp,Canada,H5B,iPhone,230.52,6,54.21,4,TRUE
+195,Fawne,Barrett,66,fbarrett5e@howstuffworks.com,Philippines,2005,Google Pixel,560.47,4,38.28,3,FALSE
+196,Milena,Andree,34,mandree5f@toplist.cz,Russia,352574,Google Pixel,165.09,24,21.45,5,FALSE
+197,Luis,Gath,30,lgath5g@hud.gov,Iran,,iPhone,382.69,11,13.2,4,TRUE
+198,Farica,MacCallum,52,fmaccallum5h@zimbio.com,Poland,42-625,Samsung Galaxy,198.33,7,13.49,1,FALSE
+199,Henrietta,Skewis,24,hskewis5i@hp.com,Philippines,6029,Google Pixel,362.41,9,49.8,1,FALSE
+200,Trev,Tackley,22,ttackley5j@archive.org,China,,Samsung Galaxy,525.49,8,85.07,1,TRUE
+201,Romona,Emanuel,75,remanuel5k@homestead.com,Vietnam,,Samsung Galaxy,279.1,3,70.23,5,FALSE
+202,Torrey,McTeggart,29,tmcteggart5l@dailymail.co.uk,China,,Google Pixel,999.21,22,94.18,3,TRUE
+203,Errick,Whitehorne,77,ewhitehorne5m@buzzfeed.com,Argentina,5385,iPhone,900.88,10,32.18,2,FALSE
+204,Ebeneser,McGlashan,30,emcglashan5n@liveinternet.ru,Malaysia,91030,iPhone,841.23,4,96.06,3,TRUE
+205,Berrie,Nice,63,bnice5o@twitter.com,Palestinian Territory,,iPhone,934.92,9,65.4,5,TRUE
+206,Di,Dryden,60,ddryden5p@histats.com,Iran,,Samsung Galaxy,946.84,6,6.52,1,FALSE
+207,Adelaida,Danat,58,adanat5q@pen.io,Dominican Republic,10217,Google Pixel,763.09,19,80.17,4,FALSE
+208,Thor,Witling,49,twitling5r@woothemes.com,China,,iPhone,982.71,23,35.98,2,TRUE
+209,Paton,Mengue,52,pmengue5s@odnoklassniki.ru,Brazil,48760-000,Google Pixel,19.38,3,51.41,4,TRUE
+210,Fowler,Greenacre,36,fgreenacre5t@census.gov,Russia,433791,iPhone,834.21,9,61.32,4,TRUE
+211,Lynnelle,Thow,69,lthow5u@bloglovin.com,Japan,852-8005,Google Pixel,293.14,12,63.38,3,FALSE
+212,Letitia,Gres,35,lgres5v@unicef.org,Ukraine,,Samsung Galaxy,760.45,1,25.77,4,FALSE
+213,Flem,Nisen,80,fnisen5w@princeton.edu,Philippines,930,Samsung Galaxy,911.52,8,73.28,3,TRUE
+214,Lona,Moreno,24,lmoreno5x@live.com,Uzbekistan,,Google Pixel,243.86,19,98.97,3,FALSE
+215,Dennison,Nana,71,dnana5y@sourceforge.net,Poland,08-108,Google Pixel,242.38,21,88.09,3,FALSE
+216,Daile,Carlow,26,dcarlow5z@bbb.org,Russia,396140,Samsung Galaxy,844.19,24,99.24,3,TRUE
+217,Elladine,de Juares,72,edejuares60@yellowpages.com,Japan,950-3341,iPhone,520.98,11,20.92,1,FALSE
+218,Bria,Brassington,41,bbrassington61@google.fr,Sudan,,iPhone,422.94,5,6.6,5,TRUE
+219,Skye,Balmadier,83,sbalmadier62@hugedomains.com,France,55013 CEDEX,Google Pixel,900,20,89.1,4,FALSE
+220,Brockie,Murrow,21,bmurrow63@washingtonpost.com,Kyrgyzstan,,Samsung Galaxy,239.53,18,4.14,5,TRUE
+221,Elizabeth,Donkersley,45,edonkersley64@gmpg.org,China,,Samsung Galaxy,530.18,16,55.62,2,TRUE
+222,Lionello,Castagnier,46,lcastagnier65@mozilla.org,Zambia,,Google Pixel,773.47,10,7.88,3,TRUE
+223,Bethany,Bitten,51,bbitten66@newsvine.com,United States,94042,Samsung Galaxy,758.53,22,45.25,1,TRUE
+224,Bradan,Duffree,32,bduffree67@google.cn,China,,iPhone,689.1,15,43.54,4,TRUE
+225,Darbee,Ranken,25,dranken68@163.com,Kazakhstan,,Google Pixel,53.62,13,89.22,2,TRUE
+226,Neda,Hainey`,22,nhainey69@indiatimes.com,Philippines,5037,Samsung Galaxy,417.14,16,14.13,2,FALSE
+227,Zulema,Cranson,31,zcranson6a@technorati.com,China,,Google Pixel,153.25,3,57.13,3,TRUE
+228,Baxie,Dome,37,bdome6b@jigsy.com,Honduras,,iPhone,717.09,19,80.58,5,FALSE
+229,Otto,Allderidge,48,oallderidge6c@qq.com,Indonesia,,Samsung Galaxy,398.52,13,45.64,4,FALSE
+230,Eleen,Valentinetti,79,evalentinetti6d@guardian.co.uk,Tanzania,,Google Pixel,729.95,7,76.25,2,FALSE
+231,Moise,Hanhard,53,mhanhard6e@google.com,Poland,56-416,Samsung Galaxy,274.83,11,24.41,3,FALSE
+232,Bailey,Robelet,82,brobelet6f@macromedia.com,Egypt,,iPhone,599.12,3,19.98,1,FALSE
+233,Hailee,Heskey,36,hheskey6g@cnbc.com,Slovenia,4207,Google Pixel,697.83,1,76.25,5,TRUE
+234,Tandi,Geyton,25,tgeyton6h@symantec.com,Tanzania,,iPhone,24.1,7,42.38,2,TRUE
+235,Brod,Tremmel,68,btremmel6i@etsy.com,China,,Google Pixel,988.42,19,29.65,4,TRUE
+236,Sibylle,Jephson,58,sjephson6j@newyorker.com,Guadeloupe,97102 CEDEX,iPhone,978.89,6,81.88,3,TRUE
+237,Sergei,Slobom,79,sslobom6k@nhs.uk,China,,iPhone,505.09,15,20.52,3,TRUE
+238,Tibold,Oldershaw,41,toldershaw6l@answers.com,Cuba,,Google Pixel,518.98,14,90.36,5,TRUE
+239,Siusan,Tarren,56,starren6m@weebly.com,Philippines,8513,Samsung Galaxy,178.88,12,39.73,4,TRUE
+240,Mady,Seed,44,mseed6n@cloudflare.com,Brazil,57230-000,iPhone,394.64,15,88.55,1,TRUE
+241,Benyamin,Gair,51,bgair6o@sun.com,Indonesia,,Google Pixel,879.09,20,64.01,1,TRUE
+242,Giavani,Gildea,69,ggildea6p@cpanel.net,Indonesia,,Samsung Galaxy,650.85,3,49.08,3,TRUE
+243,Tarrance,Clifft,44,tclifft6q@myspace.com,Peru,,Samsung Galaxy,808.55,20,17.69,3,TRUE
+244,Sherilyn,Phizaclea,71,sphizaclea6r@yellowbook.com,Indonesia,,iPhone,502.42,22,12.91,1,FALSE
+245,Vidovic,Franzel,26,vfranzel6s@i2i.jp,China,,Samsung Galaxy,874.16,14,37.86,2,FALSE
+246,Nicolas,oldey,83,noldey6t@weebly.com,United States,20520,iPhone,167.32,2,82.87,1,TRUE
+247,Fayre,Thresh,47,fthresh6u@newsvine.com,Portugal,4825-364,iPhone,549.6,17,6.44,1,TRUE
+248,Deidre,Pistol,39,dpistol6v@friendfeed.com,Peru,,Google Pixel,740.15,9,58.54,4,FALSE
+249,Kath,McGlue,32,kmcglue6w@vistaprint.com,Japan,699-3162,iPhone,681.68,14,22.55,4,TRUE
+250,Dari,Jenkison,25,djenkison6x@exblog.jp,Brazil,29800-000,Google Pixel,248.38,1,97.36,5,TRUE
+251,Currey,Daddow,37,cdaddow6y@spiegel.de,Tanzania,,Google Pixel,584.51,8,25.46,4,FALSE
+252,Ulrikaumeko,Zipsell,37,uzipsell6z@wix.com,Mongolia,,Samsung Galaxy,53.88,9,84.62,4,TRUE
+253,Beverlee,Mertel,32,bmertel70@over-blog.com,Greece,,Samsung Galaxy,97.67,13,63.1,4,FALSE
+254,Lind,Scolland,84,lscolland71@sina.com.cn,Greece,,Google Pixel,268.93,9,66.09,5,TRUE
+255,Kirbee,Yuryev,28,kyuryev72@tiny.cc,Russia,662668,iPhone,390.3,22,49.04,2,FALSE
+256,Brent,Brunicke,19,bbrunicke73@chron.com,Ukraine,,Samsung Galaxy,495.07,22,38.49,5,FALSE
+257,Burl,Tuminelli,35,btuminelli74@about.com,China,,Google Pixel,237.68,2,46.22,1,TRUE
+258,Imojean,Morton,61,imorton75@npr.org,Sweden,931 57,Samsung Galaxy,836.1,9,62.12,5,TRUE
+259,Conrade,Rasmus,30,crasmus76@amazonaws.com,Belarus,,Google Pixel,415.45,24,90.51,3,FALSE
+260,Hurley,Klimas,61,hklimas77@google.nl,South Africa,2213,iPhone,221.42,9,26.58,4,TRUE
+261,Phillip,Garrick,18,pgarrick78@utexas.edu,Indonesia,,iPhone,962.75,12,68.61,3,TRUE
+262,Kassie,Physic,74,kphysic79@infoseek.co.jp,Czech Republic,375 01,Google Pixel,122.47,7,26.74,1,TRUE
+263,Kenny,Choffin,27,kchoffin7a@usgs.gov,Dominican Republic,11807,Google Pixel,516.14,22,26.72,5,TRUE
+264,Adriana,Tyler,54,atyler7b@patch.com,China,,Google Pixel,781.9,3,90.12,5,TRUE
+265,Danette,Sommerlin,62,dsommerlin7c@goo.gl,Russia,141143,Google Pixel,130.77,8,83.92,5,TRUE
+266,Carleen,Keywood,59,ckeywood7d@mlb.com,Sweden,269 36,Samsung Galaxy,610.15,14,97.79,5,TRUE
+267,Bord,Mewrcik,79,bmewrcik7e@jigsy.com,Portugal,4805-550,Google Pixel,50.26,9,17.6,4,FALSE
+268,Richardo,Liggons,43,rliggons7f@studiopress.com,Poland,11-041,Samsung Galaxy,474.19,19,86.28,5,TRUE
+269,Kalila,Bruyns,65,kbruyns7g@list-manage.com,Macedonia,1300,Google Pixel,706.6,1,0.22,1,FALSE
+270,Ibbie,Albone,63,ialbone7h@github.com,Russia,624486,iPhone,52.47,24,60.59,3,TRUE
+271,Ezra,Stigger,18,estigger7i@chronoengine.com,Brazil,88000-000,iPhone,271.25,6,61.19,5,FALSE
+272,Lotti,McQuillan,82,lmcquillan7j@cloudflare.com,Sweden,610 25,iPhone,317.52,3,40.51,4,FALSE
+273,Briano,Bonome,56,bbonome7k@slideshare.net,China,,Google Pixel,125.85,17,64.77,3,FALSE
+274,Charlena,Outhwaite,52,couthwaite7l@tinyurl.com,Yemen,,Google Pixel,329.61,9,48.04,4,FALSE
+275,Padget,Peagram,85,ppeagram7m@census.gov,France,69939 CEDEX 20,Google Pixel,761.24,10,34.43,2,TRUE
+276,Sansone,Harhoff,31,sharhoff7n@technorati.com,Indonesia,,iPhone,611.67,6,85.35,4,FALSE
+277,Ronald,MacConnel,47,rmacconnel7o@yolasite.com,China,,iPhone,304.71,11,44.63,4,FALSE
+278,Conrade,Hender,74,chender7p@diigo.com,North Korea,,Google Pixel,925.57,24,30.52,5,TRUE
+279,Eddy,Sheddan,47,esheddan7q@simplemachines.org,China,,Samsung Galaxy,968.15,24,65.37,1,TRUE
+280,Jeralee,Verbrugghen,27,jverbrugghen7r@hexun.com,Bosnia and Herzegovina,,Google Pixel,466.61,21,15.87,4,TRUE
+281,Brigham,Boothe,31,bboothe7s@hexun.com,China,,Google Pixel,954.43,13,99.03,3,FALSE
+282,Angelika,Passey,75,apassey7t@patch.com,Russia,160034,Google Pixel,700.07,20,65.57,2,TRUE
+283,Jourdan,Shone,59,jshone7u@yahoo.co.jp,Kazakhstan,,iPhone,463.75,17,37.33,5,TRUE
+284,Romola,Searston,84,rsearston7v@psu.edu,Azerbaijan,,Samsung Galaxy,735.64,19,58.32,2,FALSE
+285,Rasla,Flockhart,45,rflockhart7w@artisteer.com,New Zealand,2241,iPhone,722.7,14,7.85,1,FALSE
+286,Massimiliano,Butchart,35,mbutchart7x@topsy.com,Brazil,45200-000,Google Pixel,145.71,8,27,1,TRUE
+287,Gui,Searl,75,gsearl7y@bigcartel.com,Indonesia,,Google Pixel,628.65,23,27.97,3,TRUE
+288,Luella,Rout,56,lrout7z@cbslocal.com,China,,Samsung Galaxy,688.36,22,38.25,5,FALSE
+289,Bernadine,Rude,76,brude80@free.fr,France,13245 CEDEX 04,Samsung Galaxy,270.79,18,70.55,1,TRUE
+290,Alleyn,Everton,58,aeverton81@webmd.com,Indonesia,,Google Pixel,247.11,3,85.6,5,TRUE
+291,Hagen,Bernetti,59,hbernetti82@theatlantic.com,United States,20546,Google Pixel,592.75,1,74.05,2,FALSE
+292,Aguistin,Brand,20,abrand83@ibm.com,Thailand,31170,Samsung Galaxy,986.41,1,52.21,2,TRUE
+293,Elbertine,Jobbing,35,ejobbing84@redcross.org,France,07209 CEDEX,Samsung Galaxy,965.68,19,60.9,3,TRUE
+294,Even,Sowman,79,esowman85@goodreads.com,Russia,196626,Google Pixel,73.11,1,76.05,4,FALSE
+295,Mahmoud,Culleford,62,mculleford86@imageshack.us,Sweden,531 36,iPhone,486.11,1,36.11,4,TRUE
+296,Elsbeth,Dalziel,77,edalziel87@cbsnews.com,Greece,,Google Pixel,444.7,15,6.59,2,FALSE
+297,Hilario,Roostan,49,hroostan88@google.de,Indonesia,,iPhone,546.44,4,72.53,3,TRUE
+298,Bettye,Trim,21,btrim89@skype.com,Indonesia,,Samsung Galaxy,299.57,11,78.1,3,TRUE
+299,Leigh,Jarred,67,ljarred8a@cam.ac.uk,China,,iPhone,481.01,18,88.74,4,FALSE
+300,Bondon,Gossage,20,bgossage8b@deliciousdays.com,China,,iPhone,328.28,18,89.02,4,FALSE
+301,Helge,Beahan,25,hbeahan8c@admin.ch,Sweden,118 55,iPhone,929.07,10,59.02,4,FALSE
+302,Raf,Staniforth,65,rstaniforth8d@whitehouse.gov,China,,Google Pixel,112.76,15,84.66,2,TRUE
+303,Dorie,Scay,37,dscay8e@nps.gov,Madagascar,,Samsung Galaxy,559.83,13,11.12,2,FALSE
+304,Forest,Kersey,82,fkersey8f@issuu.com,China,,iPhone,238.42,8,64.42,2,FALSE
+305,Brigg,Mattingson,55,bmattingson8g@wired.com,Argentina,8316,iPhone,399.29,19,2.8,3,FALSE
+306,Cazzie,Elven,73,celven8h@homestead.com,China,,iPhone,244.54,11,58.53,4,FALSE
+307,Terrye,Dovinson,18,tdovinson8i@meetup.com,Colombia,540019,iPhone,666.17,14,39.35,3,FALSE
+308,Kamila,Penswick,65,kpenswick8j@com.com,Saint Vincent and the Grenadines,,Samsung Galaxy,407.02,20,36.41,2,FALSE
+309,Pietrek,Swalwell,25,pswalwell8k@epa.gov,Mauritius,,Google Pixel,872.92,9,61.22,1,FALSE
+310,Gerladina,Gammage,77,ggammage8l@illinois.edu,Canada,N0K,Google Pixel,920.39,21,10.24,5,TRUE
+311,Kiel,Zotto,58,kzotto8m@t-online.de,Philippines,1085,Samsung Galaxy,933.9,1,83.73,4,TRUE
+312,Stanly,Mincher,76,smincher8n@sun.com,China,,Samsung Galaxy,160.21,12,73.9,4,TRUE
+313,Giacomo,Bonelle,24,gbonelle8o@bing.com,China,,iPhone,308.4,5,27.5,4,TRUE
+314,Hugo,Fouch,45,hfouch8p@tamu.edu,Belarus,,iPhone,936.9,22,19.46,2,FALSE
+315,Artemas,Gullan,68,agullan8q@redcross.org,Brazil,14400-000,Samsung Galaxy,100.15,1,2.08,3,FALSE
+316,Clari,Shuttleworth,30,cshuttleworth8r@opensource.org,Colombia,760518,iPhone,469.2,5,49.56,5,FALSE
+317,Johnna,Housecroft,73,jhousecroft8s@hostgator.com,Brazil,47100-000,Google Pixel,170.2,15,23.02,2,FALSE
+318,Jocelin,Daws,80,jdaws8t@delicious.com,Indonesia,,Samsung Galaxy,629.84,16,83.85,4,FALSE
+319,Marchall,Jennens,28,mjennens8u@adobe.com,Greece,,Samsung Galaxy,245.47,4,51.97,3,TRUE
+320,Uta,Oppy,41,uoppy8v@pen.io,Malaysia,1606,iPhone,702.91,13,88.51,1,TRUE
+321,Hilda,Auger,32,hauger8w@behance.net,Indonesia,,Google Pixel,406.24,13,58.79,3,TRUE
+322,Audry,Colclough,79,acolclough8x@howstuffworks.com,China,,Samsung Galaxy,897.59,11,14.66,5,FALSE
+323,Nissy,Kording,18,nkording8y@miibeian.gov.cn,Portugal,4845-028,iPhone,292.26,23,42.17,5,TRUE
+324,Dick,Stinchcombe,42,dstinchcombe8z@sun.com,France,94657 CEDEX,Samsung Galaxy,510.68,16,55.21,1,FALSE
+325,Pennie,Ravilus,67,pravilus90@cbsnews.com,China,,iPhone,684.25,22,14.62,3,FALSE
+326,Pincus,O'Loughnan,74,poloughnan91@ocn.ne.jp,Zimbabwe,,Google Pixel,457.75,13,5.27,2,TRUE
+327,Salome,Verdun,72,sverdun92@vk.com,China,,Samsung Galaxy,98.86,11,77.92,4,FALSE
+328,Edie,Kalisz,73,ekalisz93@hud.gov,Norway,679,iPhone,147.13,9,99.45,4,FALSE
+329,Zeke,Beeke,70,zbeeke94@naver.com,France,13729 CEDEX,Samsung Galaxy,710.52,22,6,3,TRUE
+330,Carline,Adel,70,cadel95@geocities.com,Russia,352840,Samsung Galaxy,72.87,12,26.9,1,TRUE
+331,Dyana,Wallas,56,dwallas96@wix.com,Indonesia,,Samsung Galaxy,330.5,19,21.34,3,FALSE
+332,Carmelle,Bene,19,cbene97@hao123.com,France,33060 CEDEX,Samsung Galaxy,632.15,8,40.19,4,FALSE
+333,Dael,Junifer,82,djunifer98@w3.org,Philippines,3605,Samsung Galaxy,616,5,17.26,4,TRUE
+334,Carson,Stearn,47,cstearn99@unblog.fr,China,,Samsung Galaxy,818.88,6,82.35,1,FALSE
+335,Rudie,Heam,28,rheam9a@home.pl,Afghanistan,,Google Pixel,602.86,15,62.78,2,TRUE
+336,Arleta,Pilbeam,47,apilbeam9b@nationalgeographic.com,Armenia,,Samsung Galaxy,269.39,1,76.89,2,TRUE
+337,Edmund,Bottjer,56,ebottjer9c@acquirethisname.com,Palestinian Territory,,Samsung Galaxy,379.86,7,18.75,1,FALSE
+338,Phyllis,Gorbell,77,pgorbell9d@walmart.com,South Korea,,Google Pixel,256.32,17,20.97,5,FALSE
+339,Nydia,Magne,47,nmagne9e@who.int,Indonesia,,iPhone,684.56,21,64.75,1,FALSE
+340,Dacy,Earney,26,dearney9f@elpais.com,Indonesia,,Samsung Galaxy,179.49,23,55.66,1,TRUE
+341,Roberto,Smallcombe,83,rsmallcombe9g@uiuc.edu,Indonesia,,Google Pixel,489.06,3,23.68,4,TRUE
+342,Carlye,Fowles,66,cfowles9h@loc.gov,Kosovo,,Google Pixel,271.72,10,47.45,1,FALSE
+343,Dode,Bulward,44,dbulward9i@trellian.com,United States,18706,Samsung Galaxy,274.2,8,19.74,1,FALSE
+344,Austen,Hutchason,35,ahutchason9j@1und1.de,China,,Samsung Galaxy,929.51,15,37.24,2,TRUE
+345,Annmaria,Sellor,19,asellor9k@imgur.com,United States,71307,Samsung Galaxy,785.7,11,70.9,5,FALSE
+346,Quintilla,Lomas,54,qlomas9l@example.com,Indonesia,,Google Pixel,879.19,10,10.38,2,FALSE
+347,Nicolai,Badland,20,nbadland9m@mediafire.com,Indonesia,,iPhone,478.77,16,94.53,3,FALSE
+348,Juanita,Heigho,50,jheigho9n@rediff.com,China,,iPhone,960.05,20,70.53,2,TRUE
+349,Emilio,McNirlan,19,emcnirlan9o@ft.com,Indonesia,,Samsung Galaxy,338.53,11,89.78,2,TRUE
+350,Marna,Skittles,62,mskittles9p@hexun.com,Mauritius,,Samsung Galaxy,462.52,12,89.84,5,FALSE
+351,Aland,Thames,37,athames9q@indiatimes.com,Indonesia,,Google Pixel,754.3,23,33.7,4,TRUE
+352,Gaultiero,Boobier,55,gboobier9r@slashdot.org,Indonesia,,iPhone,744.74,22,97.15,5,TRUE
+353,Tadio,Quilleash,65,tquilleash9s@mozilla.com,Portugal,4950-830,Google Pixel,43.38,21,6.69,5,TRUE
+354,Maryann,Colquyte,30,mcolquyte9t@yahoo.co.jp,Japan,379-2147,Samsung Galaxy,672.71,21,65.36,2,TRUE
+355,Clerissa,Sendall,20,csendall9u@behance.net,Norway,376,Samsung Galaxy,349.96,23,51.9,1,FALSE
+356,Orren,Brunon,26,obrunon9v@reddit.com,Ethiopia,,Samsung Galaxy,802.28,5,78.43,1,TRUE
+357,Wrennie,Lea,49,wlea9w@webmd.com,China,,iPhone,346.43,14,91.09,1,TRUE
+358,Darbee,Viner,78,dviner9x@dailymail.co.uk,Serbia,,Google Pixel,174.78,23,81.86,2,TRUE
+359,Karleen,Truggian,29,ktruggian9y@businesswire.com,Bulgaria,3320,Samsung Galaxy,549.79,3,84.09,5,FALSE
+360,Gram,Christophle,54,gchristophle9z@ycombinator.com,Philippines,2305,Google Pixel,732.06,6,57.05,3,FALSE
+361,Aili,Stable,45,astablea0@google.it,Brazil,27600-000,iPhone,967.82,15,5.86,5,TRUE
+362,Bonita,Shimon,22,bshimona1@craigslist.org,Ireland,K67,Samsung Galaxy,244.02,18,12.72,4,TRUE
+363,Portie,Stoakley,39,pstoakleya2@ezinearticles.com,Nigeria,,iPhone,178.42,16,81.97,2,TRUE
+364,Lainey,Docharty,56,ldochartya3@amazon.co.uk,Philippines,6202,iPhone,188.71,20,89.09,4,TRUE
+365,Dorie,O'Cridigan,53,docridigana4@deviantart.com,Pakistan,72011,iPhone,91.98,18,74.54,2,FALSE
+366,Perren,Flatt,63,pflatta5@nature.com,Indonesia,,Samsung Galaxy,402.76,13,54.48,3,TRUE
+367,Olive,Crusham,76,ocrushama6@paginegialle.it,Puerto Rico,928,Samsung Galaxy,397.94,2,33.43,1,FALSE
+368,Bride,Barson,30,bbarsona7@cloudflare.com,Belarus,,Samsung Galaxy,294.74,13,27.9,4,FALSE
+369,Stanleigh,Argent,80,sargenta8@answers.com,Bahamas,,iPhone,474.36,16,44.68,4,FALSE
+370,Marcus,Frossell,79,mfrossella9@ow.ly,China,,Samsung Galaxy,514.33,17,33.42,5,TRUE
+371,Charleen,Bride,75,cbrideaa@ning.com,Indonesia,,iPhone,388.8,13,11,3,TRUE
+372,Lonna,Longmire,30,llongmireab@techcrunch.com,China,,iPhone,386.11,13,23.87,5,TRUE
+373,Charil,Duxbury,48,cduxburyac@blogtalkradio.com,Panama,,Samsung Galaxy,594.52,22,49.88,5,FALSE
+374,Miriam,Rodda,35,mroddaad@unicef.org,Japan,882-0877,Samsung Galaxy,547.19,6,67.02,1,TRUE
+375,Glenna,Sheron,74,gsheronae@imdb.com,Poland,22-413,Google Pixel,254.28,12,46.14,1,FALSE
+376,Mord,Waghorne,72,mwaghorneaf@blinklist.com,Poland,97-318,Google Pixel,810.26,11,85.21,3,FALSE
+377,Udale,Brisley,79,ubrisleyag@bloglovin.com,Colombia,687587,Samsung Galaxy,857.28,10,47.31,4,FALSE
+378,Byrom,Sonley,38,bsonleyah@huffingtonpost.com,Philippines,8507,iPhone,560.9,22,17.47,3,TRUE
+379,Alfy,Kornyshev,35,akornyshevai@mozilla.com,Philippines,2709,iPhone,507.44,23,81.21,4,FALSE
+380,Belinda,Start,50,bstartaj@cmu.edu,China,,iPhone,823.72,19,80.25,4,TRUE
+381,Tyne,Harkess,20,tharkessak@ucsd.edu,Russia,613594,iPhone,919.42,4,7.59,1,FALSE
+382,Bartolemo,Yarrell,61,byarrellal@squarespace.com,Poland,76-153,Samsung Galaxy,872.27,15,16.4,1,FALSE
+383,Bryana,Blinkhorn,39,bblinkhornam@marriott.com,Indonesia,,Samsung Galaxy,612.72,10,75.04,4,FALSE
+384,Timoteo,Eliet,55,telietan@etsy.com,Niger,,Google Pixel,134.18,6,27.26,5,FALSE
+385,Hedwiga,Blaxeland,74,hblaxelandao@w3.org,Philippines,4217,Samsung Galaxy,16.31,1,83.33,1,FALSE
+386,Rickey,Brittan,68,rbrittanap@shareasale.com,China,,Samsung Galaxy,855.39,12,77.32,4,TRUE
+387,Arnoldo,Leemans,26,aleemansaq@illinois.edu,Japan,742-0021,Samsung Galaxy,429.53,24,1.36,2,FALSE
+388,Valaria,Gallahue,26,vgallahuear@infoseek.co.jp,Poland,68-208,iPhone,435.29,21,15.9,4,FALSE
+389,Rockey,Emanuelov,85,remanuelovas@slideshare.net,Peru,,iPhone,313.49,2,91.7,2,FALSE
+390,Aurilia,Demageard,38,ademageardat@netscape.com,Portugal,4605-425,Google Pixel,641.84,7,13.73,5,FALSE
+391,Faith,Jeens,45,fjeensau@nifty.com,China,,Samsung Galaxy,425.96,9,16.21,5,TRUE
+392,Clarice,Danjoie,71,cdanjoieav@dion.ne.jp,Palestinian Territory,,Google Pixel,4.32,16,63.47,2,TRUE
+393,Rod,Burgyn,45,rburgynaw@java.com,Indonesia,,Google Pixel,751.83,13,26.13,3,TRUE
+394,Rodd,Trownson,28,rtrownsonax@pcworld.com,Brazil,23970-000,Google Pixel,487.97,3,66.33,4,TRUE
+395,Ree,Sygroves,39,rsygrovesay@issuu.com,Portugal,4770-014,Google Pixel,588.63,15,57.18,1,FALSE
+396,Ezmeralda,Rao,64,eraoaz@sina.com.cn,American Samoa,96799,Google Pixel,306.23,16,80.85,2,TRUE
+397,Nico,Chadburn,36,nchadburnb0@who.int,Croatia,52000,Google Pixel,415.42,2,46.09,3,FALSE
+398,Anni,Bourget,85,abourgetb1@engadget.com,Nigeria,,iPhone,91.16,10,86.01,3,TRUE
+399,Tristan,Albury,60,talburyb2@naver.com,Zimbabwe,,iPhone,813.72,2,61.26,2,FALSE
+400,Field,Ringrose,31,fringroseb3@ustream.tv,Indonesia,,Samsung Galaxy,108.42,7,3.63,2,FALSE
+401,Gisella,Skurm,41,gskurmb4@bizjournals.com,Portugal,2835-526,Samsung Galaxy,23.36,3,39.63,5,TRUE
+402,Izzy,Cannon,74,icannonb5@shutterfly.com,France,38244 CEDEX,Samsung Galaxy,96.86,24,15.59,1,TRUE
+403,Diane,Coomer,59,dcoomerb6@tmall.com,China,,Google Pixel,625.92,21,97.57,1,FALSE
+404,Bryn,Drews,84,bdrewsb7@cloudflare.com,Indonesia,,Google Pixel,606.12,9,47.34,1,FALSE
+405,Gerianne,Okker,67,gokkerb8@hatena.ne.jp,China,,iPhone,75.51,8,49.04,1,FALSE
+406,Yovonnda,Pulster,32,ypulsterb9@g.co,Philippines,4215,Google Pixel,611.19,23,28.15,5,TRUE
+407,Calida,Hierro,32,chierroba@cyberchimps.com,Indonesia,,iPhone,296.36,11,27.17,3,TRUE
+408,Carver,McTerlagh,84,cmcterlaghbb@squidoo.com,China,,iPhone,812.64,1,42.69,5,FALSE
+409,Natasha,Stean,59,nsteanbc@theglobeandmail.com,China,,Google Pixel,100.36,16,66.19,4,TRUE
+410,Amata,Sanpher,57,asanpherbd@irs.gov,Morocco,,iPhone,850.8,17,72.23,4,FALSE
+411,D'arcy,L' Estrange,84,dlestrangebe@google.ru,Russia,607700,Samsung Galaxy,472.7,13,47.09,3,FALSE
+412,Dalia,Canlin,47,dcanlinbf@reverbnation.com,Canada,T1V,Samsung Galaxy,802.06,14,10.52,3,TRUE
+413,Tracee,Dunckley,30,tdunckleybg@army.mil,Cuba,,Google Pixel,753.35,24,65.32,1,TRUE
+414,Carlina,Inchbald,76,cinchbaldbh@ucla.edu,Iraq,,Samsung Galaxy,831.77,4,54.3,1,TRUE
+415,Sibella,Beggin,62,sbegginbi@blogtalkradio.com,Colombia,57858,Samsung Galaxy,998.57,14,99.13,2,TRUE
+416,Lavinia,Berfoot,34,lberfootbj@w3.org,France,17014 CEDEX 1,Samsung Galaxy,314.94,10,82.1,2,FALSE
+417,Bart,Arnaudet,54,barnaudetbk@fastcompany.com,Indonesia,,Google Pixel,62.51,3,16.75,2,FALSE
+418,Jephthah,Parzizek,30,jparzizekbl@loc.gov,Indonesia,,Samsung Galaxy,763.28,20,88.28,3,TRUE
+419,Ekaterina,Grubb,39,egrubbbm@163.com,Czech Republic,533 22,Google Pixel,238.71,11,80.34,4,FALSE
+420,Kissie,Cicccitti,85,kcicccittibn@pbs.org,Indonesia,,iPhone,837.92,12,55.42,5,TRUE
+421,Aila,Leatherborrow,72,aleatherborrowbo@vistaprint.com,Peru,,Samsung Galaxy,560.2,10,13.96,3,TRUE
+422,Cissy,Sparkes,24,csparkesbp@archive.org,Indonesia,,Samsung Galaxy,753.92,21,36.01,4,TRUE
+423,Trixy,Dabernott,22,tdabernottbq@nyu.edu,Czech Republic,739 97,iPhone,695.83,2,99.89,1,FALSE
+424,Darcee,Grissett,47,dgrissettbr@hud.gov,Slovenia,3220,Google Pixel,464.25,12,10.69,4,TRUE
+425,Bettine,Oldis,82,boldisbs@foxnews.com,Poland,32-765,iPhone,365.19,17,61.43,5,FALSE
+426,Charlotta,Tremain,30,ctremainbt@timesonline.co.uk,Argentina,3116,Google Pixel,188.78,4,72.32,5,FALSE
+427,Shelton,Trippick,82,strippickbu@ftc.gov,Portugal,2970-303,iPhone,952.54,21,97.9,3,TRUE
+428,Brandy,Izkoveski,64,bizkoveskibv@indiatimes.com,Indonesia,,Google Pixel,727.29,6,43.41,3,TRUE
+429,Godwin,Spuner,56,gspunerbw@princeton.edu,Russia,427010,iPhone,190.43,18,71.39,2,TRUE
+430,Irena,Spinage,65,ispinagebx@vk.com,United States,76110,Google Pixel,51.35,11,26.84,5,FALSE
+431,Bud,McSparran,41,bmcsparranby@geocities.com,Poland,47-344,Google Pixel,350.55,18,49.89,2,FALSE
+432,Ethe,Vickarman,48,evickarmanbz@topsy.com,Brazil,64178-000,Google Pixel,114.8,20,9.74,5,FALSE
+433,Eveline,Mourge,59,emourgec0@angelfire.com,Philippines,6130,iPhone,805.39,12,62.47,5,TRUE
+434,Jobye,Lodge,66,jlodgec1@phoca.cz,Bangladesh,9283,Samsung Galaxy,528.9,21,71.99,1,TRUE
+435,Kassia,Moan,22,kmoanc2@linkedin.com,Portugal,4650-291,Samsung Galaxy,257.21,5,23.52,5,FALSE
+436,Janela,Ebbens,81,jebbensc3@blogtalkradio.com,China,,Samsung Galaxy,544.99,14,83.98,5,TRUE
+437,Loren,Blench,70,lblenchc4@ycombinator.com,Syria,,Samsung Galaxy,495.83,18,97.1,5,FALSE
+438,Tilda,Palfery,28,tpalferyc5@123-reg.co.uk,Tanzania,,Google Pixel,608.44,1,34.8,5,TRUE
+439,Janeva,Pellman,49,jpellmanc6@businesswire.com,Brazil,88140-000,Samsung Galaxy,333.16,17,28.26,1,FALSE
+440,Lon,Cockrell,40,lcockrellc7@go.com,Kazakhstan,,Google Pixel,930.64,1,61.46,3,TRUE
+441,Zaria,Smeeth,29,zsmeethc8@hc360.com,China,,iPhone,853.92,17,60.41,1,FALSE
+442,Joyann,Abrahamsen,42,jabrahamsenc9@usnews.com,Finland,54101,Google Pixel,520.38,19,0.01,1,FALSE
+443,Brittne,Ruston,62,brustonca@ihg.com,Poland,05-870,Samsung Galaxy,856.6,19,37.94,3,FALSE
+444,Yetty,Heinig,56,yheinigcb@tinypic.com,China,,Google Pixel,369.87,17,10.46,2,FALSE
+445,Ruy,Rouse,20,rrousecc@exblog.jp,Colombia,152247,Samsung Galaxy,916.36,16,93.32,3,TRUE
+446,Karim,Panichelli,21,kpanichellicd@g.co,Armenia,,Google Pixel,495.89,15,36.58,1,TRUE
+447,Jody,Coolican,76,jcoolicance@alexa.com,Mexico,93650,Google Pixel,744.24,18,15.4,3,FALSE
+448,Chrysa,Spillett,69,cspillettcf@statcounter.com,Sweden,821 41,iPhone,745.63,19,78.72,1,TRUE
+449,Suellen,Nuschke,47,snuschkecg@howstuffworks.com,Indonesia,,iPhone,134.42,12,67.03,4,FALSE
+450,Nikolas,Lambkin,19,nlambkinch@nature.com,Poland,05-824,Google Pixel,871.01,3,37.49,5,TRUE
+451,Ardella,Harrell,72,aharrellci@loc.gov,Russia,187557,Google Pixel,593.15,20,77.7,2,TRUE
+452,Delilah,Glendinning,45,dglendinningcj@yale.edu,France,13834 CEDEX,Samsung Galaxy,311.37,4,34.32,4,TRUE
+453,Federico,Belchem,27,fbelchemck@scribd.com,Portugal,4960-522,iPhone,939.08,5,5.23,2,FALSE
+454,Katti,Murphey,27,kmurpheycl@gizmodo.com,Russia,606243,Google Pixel,214.48,22,90.77,1,FALSE
+455,Aundrea,Strowger,83,astrowgercm@weather.com,Cuba,,Samsung Galaxy,845.31,14,63.4,1,TRUE
+456,Simon,Gergus,66,sgerguscn@histats.com,Philippines,6203,iPhone,916.88,18,13.32,5,FALSE
+457,Izaak,Toolan,78,itoolanco@wikia.com,Portugal,2430-024,iPhone,13.84,4,31.59,4,FALSE
+458,Shaun,Rennick,38,srennickcp@un.org,Indonesia,,Samsung Galaxy,55.61,8,81.15,3,TRUE
+459,Vina,Spriggin,28,vspriggincq@blogtalkradio.com,Cameroon,,Google Pixel,166.91,9,10.72,4,TRUE
+460,Grace,Esmead,25,gesmeadcr@acquirethisname.com,China,,Google Pixel,8.08,3,54.14,2,TRUE
+461,Georgeanne,Boxhill,77,gboxhillcs@amazon.co.jp,Serbia,,iPhone,133.37,8,85.58,1,TRUE
+462,Deny,Rourke,67,drourkect@chronoengine.com,Czech Republic,696 62,Samsung Galaxy,917.38,16,73.13,1,TRUE
+463,Garrard,Dunmore,67,gdunmorecu@rediff.com,Czech Republic,687 23,iPhone,306.6,4,36.61,3,TRUE
+464,Ursala,Greenshields,69,ugreenshieldscv@networksolutions.com,Sweden,917 32,iPhone,345.91,11,22.74,2,FALSE
+465,Mead,Duhig,29,mduhigcw@netvibes.com,Afghanistan,,Samsung Galaxy,203.35,18,91.34,1,FALSE
+466,Odelia,Clampton,58,oclamptoncx@forbes.com,Cuba,,iPhone,280.73,16,61.15,1,FALSE
+467,Darbee,Cuell,29,dcuellcy@list-manage.com,Brazil,92500-000,Samsung Galaxy,356.24,8,13.13,1,FALSE
+468,Orland,Dearell,61,odearellcz@usgs.gov,Peru,,Samsung Galaxy,727.1,1,83.31,4,TRUE
+469,Kala,Crallan,26,kcralland0@pen.io,China,,Google Pixel,629.22,5,57.79,4,TRUE
+470,Collie,Lukianov,65,clukianovd1@tripod.com,Poland,32-437,iPhone,943.42,9,61.32,4,TRUE
+471,Jany,Hourahan,70,jhourahand2@yandex.ru,China,,Google Pixel,681.87,1,23.07,1,FALSE
+472,Francesca,Monckman,55,fmonckmand3@flickr.com,Philippines,8501,iPhone,203.77,20,57.9,4,TRUE
+473,Scottie,Ingon,33,singond4@zdnet.com,Ukraine,,Google Pixel,951.66,21,91.04,4,TRUE
+474,Peter,Russam,61,prussamd5@sphinn.com,Indonesia,,Samsung Galaxy,791.75,3,36.56,2,FALSE
+475,Sephira,Gilbride,60,sgilbrided6@lycos.com,Portugal,4750-584,Samsung Galaxy,19.36,15,44.04,2,FALSE
+476,Bryn,O'Gaven,29,bogavend7@xing.com,China,,Samsung Galaxy,667.72,8,65.51,2,TRUE
+477,Ariel,Garnham,41,agarnhamd8@friendfeed.com,China,,Google Pixel,709.45,15,92.63,3,FALSE
+478,Alexander,Creebo,61,acreebod9@imgur.com,Uzbekistan,,Google Pixel,267.09,17,45.17,3,TRUE
+479,Antonetta,Whitford,42,awhitfordda@behance.net,Montenegro,,Samsung Galaxy,925.22,15,64.92,4,FALSE
+480,Elvira,Goby,66,egobydb@unicef.org,Philippines,3813,Samsung Galaxy,353.5,6,64.12,2,FALSE
+481,Donavon,Habin,44,dhabindc@ucoz.ru,China,,iPhone,520.65,13,42.97,2,FALSE
+482,Chadd,Greatbank,26,cgreatbankdd@java.com,Czech Republic,431 41,iPhone,895.56,19,0.11,2,TRUE
+483,Maynord,Sottell,66,msottellde@hud.gov,Honduras,,iPhone,452,19,55.91,5,FALSE
+484,Kile,St Louis,61,kstlouisdf@usnews.com,China,,iPhone,986.42,10,5.05,2,FALSE
+485,Christina,Tryhorn,25,ctryhorndg@yellowpages.com,Norway,979,iPhone,889.81,1,3.19,5,FALSE
+486,Ryann,Dugue,52,rduguedh@ow.ly,China,,iPhone,222.62,14,30.34,4,FALSE
+487,Alexandre,Giamuzzo,20,agiamuzzodi@techcrunch.com,China,,Google Pixel,55.13,15,49.73,2,FALSE
+488,Domenic,Kettel,32,dketteldj@domainmarket.com,China,,Google Pixel,20.51,15,3.05,1,FALSE
+489,Ezri,Itzkovici,84,eitzkovicidk@opensource.org,Russia,144010,Samsung Galaxy,446.41,6,38.69,5,FALSE
+490,Kerwin,Buddles,28,kbuddlesdl@yale.edu,Indonesia,,Google Pixel,484.31,3,64.45,4,FALSE
+491,Pippa,Grenshiels,54,pgrenshielsdm@lycos.com,Poland,34-741,Google Pixel,802.72,9,51.31,3,TRUE
+492,Tabina,Rolfini,35,trolfinidn@aol.com,Poland,27-310,Samsung Galaxy,988.2,8,4.32,3,TRUE
+493,Perkin,Biasini,55,pbiasinido@icq.com,United States,79977,Samsung Galaxy,495.48,14,88.29,4,TRUE
+494,Scott,Varnham,67,svarnhamdp@thetimes.co.uk,Albania,,iPhone,224.7,24,87.42,3,TRUE
+495,Ulrick,Grange,27,ugrangedq@plala.or.jp,France,75949 CEDEX 19,iPhone,727.65,18,30.06,5,FALSE
+496,Putnam,Bonifas,39,pbonifasdr@ca.gov,China,,iPhone,500.49,21,23.76,3,FALSE
+497,Steve,Hallford,61,shallfordds@comsenz.com,Indonesia,,Google Pixel,194.97,10,52.62,5,FALSE
+498,Ingamar,Duchesne,21,iduchesnedt@jimdo.com,Ukraine,,iPhone,392.22,19,53.06,2,TRUE
+499,Arnuad,Formoy,63,aformoydu@patch.com,Libya,,Google Pixel,483.1,8,0.74,5,TRUE
+500,Effie,Molan,24,emolandv@sina.com.cn,Indonesia,,Google Pixel,649.07,18,54.08,5,FALSE
+501,Amble,Tankard,49,atankarddw@tumblr.com,Poland,55-120,Google Pixel,981.96,5,41.73,4,FALSE
+502,Abigale,Sapsforde,52,asapsfordedx@bandcamp.com,Oman,,Samsung Galaxy,444.57,10,14.19,3,TRUE
+503,Skippy,Jachimiak,25,sjachimiakdy@mashable.com,Iran,,Samsung Galaxy,703.43,4,11.42,4,TRUE
+504,Skyler,Unthank,62,sunthankdz@icio.us,Malawi,,iPhone,441.15,12,45.05,5,FALSE
+505,Pearl,Laviss,53,plavisse0@arizona.edu,China,,Samsung Galaxy,744.11,17,29.69,5,FALSE
+506,Koren,Stembridge,60,kstembridgee1@amazon.com,Indonesia,,iPhone,277.74,9,22.25,2,TRUE
+507,Noam,Iacobo,51,niacoboe2@prlog.org,China,,Samsung Galaxy,66.19,24,22.77,5,FALSE
+508,Samuele,Cornill,37,scornille3@deviantart.com,China,,iPhone,348.84,18,76,4,FALSE
+509,Conroy,Gillbey,43,cgillbeye4@vk.com,Afghanistan,,iPhone,201.68,20,77.32,2,FALSE
+510,Beilul,Kenwood,48,bkenwoode5@phpbb.com,China,,iPhone,175.53,20,60.77,3,FALSE
+511,Pansie,Keeffe,44,pkeeffee6@shutterfly.com,Malaysia,12700,Google Pixel,661.22,2,75.99,1,TRUE
+512,Von,Nozzolii,47,vnozzoliie7@tmall.com,Thailand,80130,Samsung Galaxy,624.36,18,86.36,3,FALSE
+513,Heindrick,Spilstead,47,hspilsteade8@irs.gov,Iran,,Google Pixel,547.16,8,61.95,5,FALSE
+514,Paige,Selwyn,56,pselwyne9@shareasale.com,Poland,27-220,iPhone,584.07,15,7.23,1,TRUE
+515,Cyndy,Sharvill,80,csharvillea@artisteer.com,Indonesia,,Samsung Galaxy,237.9,21,32.12,2,FALSE
+516,Rollo,Buddleigh,44,rbuddleigheb@techcrunch.com,China,,Samsung Galaxy,560.61,12,59.95,2,TRUE
+517,Elva,Cockshot,60,ecockshotec@alibaba.com,China,,Google Pixel,252.68,4,74.38,3,TRUE
+518,Maritsa,McHan,33,mmchaned@wiley.com,Guatemala,21003,iPhone,119.24,10,17.39,4,TRUE
+519,Rurik,Manie,46,rmanieee@google.de,China,,Samsung Galaxy,387.32,5,11.9,2,FALSE
+520,Bartolomeo,Wiper,19,bwiperef@xrea.com,Argentina,4417,Samsung Galaxy,507.3,20,67.56,4,FALSE
+521,Britt,MacMechan,75,bmacmechaneg@samsung.com,Indonesia,,Google Pixel,198.82,9,72.53,5,FALSE
+522,Floyd,Venny,71,fvennyeh@cnn.com,Finland,99871,Google Pixel,240.61,16,27.94,5,FALSE
+523,Halley,McGrill,32,hmcgrillei@cpanel.net,Portugal,4575-062,Samsung Galaxy,952.65,24,67.49,1,TRUE
+524,Margalit,Poppleton,62,mpoppletonej@surveymonkey.com,Peru,,Google Pixel,318.83,4,64.38,1,TRUE
+525,Turner,Crayton,59,tcraytonek@dagondesign.com,France,42963 CEDEX 9,Samsung Galaxy,730.87,10,51.36,5,FALSE
+526,Constancy,Wallicker,33,cwallickerel@zimbio.com,Azerbaijan,,iPhone,288.3,15,6.85,5,FALSE
+527,Berkley,Sockell,74,bsockellem@biglobe.ne.jp,Kazakhstan,,Samsung Galaxy,73,24,32.02,3,TRUE
+528,Desi,Guppy,65,dguppyen@bbb.org,Portugal,2205-806,Samsung Galaxy,791.47,5,78.94,3,TRUE
+529,Concettina,Dood,50,cdoodeo@paypal.com,Syria,,Samsung Galaxy,778.56,10,19.41,2,FALSE
+530,Colly,Cawthera,56,ccawtheraep@harvard.edu,Russia,633375,iPhone,374.76,8,51.4,3,TRUE
+531,Whitby,Leman,42,wlemaneq@jimdo.com,China,,Samsung Galaxy,412.24,22,49.1,5,TRUE
+532,Konrad,Thomkins,35,kthomkinser@gov.uk,Indonesia,,Samsung Galaxy,427.81,1,61.28,4,TRUE
+533,Roldan,Paintain,71,rpaintaines@people.com.cn,Argentina,5166,iPhone,546.89,15,30.11,1,TRUE
+534,Leroi,Lightbowne,82,llightbowneet@chicagotribune.com,France,13637 CEDEX,Samsung Galaxy,709.43,21,15.82,2,TRUE
+535,Butch,Brownill,75,bbrownilleu@taobao.com,Japan,996-0051,Google Pixel,786.8,1,1.55,3,FALSE
+536,Johnette,Ahrendsen,52,jahrendsenev@wired.com,Greece,,iPhone,378.82,3,5.68,5,TRUE
+537,Hakeem,Halliberton,78,hhallibertonew@nyu.edu,Japan,509-0307,Samsung Galaxy,231.02,14,16.93,5,FALSE
+538,Tamara,Hallex,68,thallexex@youku.com,Vietnam,,Samsung Galaxy,30.78,21,11.35,5,FALSE
+539,Elvera,Andrei,27,eandreiey@engadget.com,Portugal,4785-228,Samsung Galaxy,955.29,8,33.92,2,TRUE
+540,Ronalda,Lister,60,rlisterez@google.com.br,Indonesia,,Samsung Galaxy,184.27,13,61.78,2,FALSE
+541,Kathryne,Lutman,55,klutmanf0@sakura.ne.jp,Indonesia,,Samsung Galaxy,266.1,21,55.58,5,TRUE
+542,Antone,Hurrion,39,ahurrionf1@google.es,Netherlands,6464,Google Pixel,575.05,11,61.26,1,TRUE
+543,Tamqrah,Karpf,71,tkarpff2@furl.net,Indonesia,,Samsung Galaxy,502.69,5,69.56,5,FALSE
+544,Sara,Brettelle,34,sbrettellef3@sciencedirect.com,Ukraine,,Samsung Galaxy,606.59,19,78.32,5,TRUE
+545,Clemmy,Tubby,53,ctubbyf4@163.com,Oman,,iPhone,324.12,4,96.92,2,FALSE
+546,Lida,Maple,32,lmaplef5@cyberchimps.com,Philippines,6300,Samsung Galaxy,681.59,21,22.79,3,FALSE
+547,Helene,Craine,35,hcrainef6@go.com,Indonesia,,Google Pixel,624.2,14,95.3,2,TRUE
+548,Marrilee,Janacek,67,mjanacekf7@printfriendly.com,Brazil,45345-000,Samsung Galaxy,58.93,5,10.41,3,TRUE
+549,Clim,Gorick,32,cgorickf8@studiopress.com,Brazil,89340-000,Google Pixel,834.12,16,89.98,3,FALSE
+550,Chandler,Rudsdell,54,crudsdellf9@unesco.org,Russia,386122,iPhone,631.06,19,75.68,3,TRUE
+551,Carmelle,Sweynson,27,csweynsonfa@usgs.gov,Austria,8644,Google Pixel,348.74,1,79.59,5,FALSE
+552,Averell,Bellam,20,abellamfb@multiply.com,Palestinian Territory,,Google Pixel,238.04,5,66.9,1,FALSE
+553,Arlene,Eberz,59,aeberzfc@dmoz.org,Belarus,,Samsung Galaxy,930.1,3,51.72,5,TRUE
+554,Gwenny,Ferby,23,gferbyfd@bloglines.com,Iran,,Samsung Galaxy,667.54,24,56.9,4,FALSE
+555,Lynna,Spratt,53,lsprattfe@163.com,Georgia,,Google Pixel,0.21,8,13.67,5,TRUE
+556,Corrie,Turbill,60,cturbillff@berkeley.edu,Democratic Republic of the Congo,,iPhone,568.45,22,93.39,5,FALSE
+557,Nolan,Gow,82,ngowfg@xing.com,Yemen,,iPhone,658.33,20,72.35,5,FALSE
+558,Irina,Jardein,68,ijardeinfh@go.com,Indonesia,,Google Pixel,98.77,22,5.26,5,TRUE
+559,Kameko,Sabban,63,ksabbanfi@edublogs.org,United States,29905,iPhone,429.41,21,81.16,4,FALSE
+560,Timmy,McShee,82,tmcsheefj@ovh.net,China,,Google Pixel,647.96,13,13.28,2,FALSE
+561,Nara,Okenfold,45,nokenfoldfk@indiatimes.com,France,44265 CEDEX 2,Google Pixel,186.14,2,62.47,2,FALSE
+562,Teodorico,Boole,70,tboolefl@ed.gov,China,,Google Pixel,3.56,8,52.19,3,TRUE
+563,Shelden,Alliston,77,sallistonfm@gnu.org,China,,iPhone,274.68,7,24.15,3,FALSE
+564,Andre,Thomerson,29,athomersonfn@go.com,South Africa,7210,Google Pixel,243.17,12,96.54,5,FALSE
+565,Ezekiel,France,35,efrancefo@trellian.com,Belarus,,iPhone,951.37,1,4.47,4,TRUE
+566,Alethea,Greenwell,74,agreenwellfp@squidoo.com,Portugal,4535-160,iPhone,460.86,21,1.52,5,FALSE
+567,Skyler,Duran,36,sduranfq@livejournal.com,China,,Samsung Galaxy,691.07,10,39.44,4,FALSE
+568,Celinka,Tongue,50,ctonguefr@cloudflare.com,Russia,688000,Google Pixel,60.61,4,29,3,FALSE
+569,Ced,Fitzsymon,74,cfitzsymonfs@webmd.com,Brazil,93180-000,Google Pixel,142.27,2,21.72,2,TRUE
+570,Myrvyn,Campbell-Dunlop,66,mcampbelldunlopft@t.co,China,,Samsung Galaxy,107.56,6,71.86,3,TRUE
+571,Arlen,Aireton,69,aairetonfu@e-recht24.de,China,,Google Pixel,851.99,11,86.42,4,TRUE
+572,Sheridan,Fyfield,79,sfyfieldfv@myspace.com,Vietnam,,iPhone,594.2,18,97.49,3,FALSE
+573,Emory,Erb,70,eerbfw@fc2.com,France,76204 CEDEX,iPhone,42.23,15,91.69,2,FALSE
+574,Vida,Galle,44,vgallefx@businessinsider.com,Honduras,,iPhone,812.23,16,81.4,2,TRUE
+575,Ranique,Burtt,76,rburttfy@boston.com,Greece,,Samsung Galaxy,540.93,4,74.52,4,TRUE
+576,Allx,Coll,28,acollfz@dion.ne.jp,Indonesia,,iPhone,181.86,18,74.77,4,FALSE
+577,Stephenie,Carillo,53,scarillog0@wired.com,Greece,,iPhone,38.26,18,95.72,4,TRUE
+578,Dorolice,Nutkins,72,dnutkinsg1@hatena.ne.jp,Philippines,6525,iPhone,513.35,20,63.95,4,TRUE
+579,Essy,Jezzard,27,ejezzardg2@comsenz.com,Russia,302025,iPhone,329.74,14,67.9,3,TRUE
+580,Hubert,Rowantree,38,hrowantreeg3@bluehost.com,Indonesia,,Google Pixel,778.89,3,45.86,3,TRUE
+581,Lowell,Zammitt,84,lzammittg4@example.com,Bosnia and Herzegovina,,Google Pixel,415.64,9,45.91,4,FALSE
+582,Rodd,Chettoe,37,rchettoeg5@scientificamerican.com,United States,40298,iPhone,126.63,1,12.41,3,TRUE
+583,Abraham,Chrestien,70,achrestieng6@google.it,Indonesia,,iPhone,344.71,9,75.73,5,FALSE
+584,Adoree,Hammon,44,ahammong7@redcross.org,Sweden,262 92,iPhone,497.75,24,10.45,4,FALSE
+585,Beryle,Gooder,33,bgooderg8@nbcnews.com,Philippines,5613,Samsung Galaxy,158.23,16,86.38,4,TRUE
+586,Madelyn,Roz,40,mrozg9@dailymail.co.uk,Sweden,132 81,Samsung Galaxy,62.12,14,16.08,4,FALSE
+587,Barbee,Rupert,57,brupertga@nba.com,China,,Google Pixel,110.94,17,92.08,4,FALSE
+588,Floyd,Danhel,33,fdanhelgb@trellian.com,China,,iPhone,31.17,20,64.52,1,TRUE
+589,Hewe,Deschelle,36,hdeschellegc@pbs.org,Afghanistan,,Google Pixel,258.12,20,6.41,4,TRUE
+590,Liesa,Littlefair,21,llittlefairgd@springer.com,Jamaica,,Google Pixel,890.35,17,7.56,5,TRUE
+591,Claire,Tebbe,81,ctebbege@hhs.gov,Argentina,5713,Google Pixel,760.9,4,8.95,1,TRUE
+592,Myrilla,Colwell,18,mcolwellgf@hugedomains.com,Kazakhstan,,iPhone,881.05,11,4.4,1,FALSE
+593,Cull,Docksey,65,cdockseygg@fda.gov,Philippines,5615,Google Pixel,370.93,18,94.68,1,FALSE
+594,Doy,Spreadbury,21,dspreadburygh@netlog.com,Poland,36-220,Google Pixel,986.65,6,51.53,3,TRUE
+595,Tandy,Bothe,65,tbothegi@cam.ac.uk,China,,Google Pixel,416.84,23,51.19,5,TRUE
+596,Amye,Benoy,53,abenoygj@paypal.com,Thailand,57000,iPhone,967.23,24,87.69,3,TRUE
+597,Bronnie,Penchen,58,bpenchengk@economist.com,Chile,,Google Pixel,368.51,12,16.68,2,TRUE
+598,Dukie,Advani,46,dadvanigl@virginia.edu,Indonesia,,Samsung Galaxy,91.88,4,90,5,TRUE
+599,Erik,Longford,78,elongfordgm@abc.net.au,Zimbabwe,,Google Pixel,21.68,16,1.11,5,TRUE
+600,Clevey,Silverthorne,47,csilverthornegn@dropbox.com,Sweden,813 91,Samsung Galaxy,188.02,12,88.42,1,FALSE
+601,Michaela,Brummitt,78,mbrummittgo@cnn.com,United States,81010,Samsung Galaxy,321.17,7,97.86,2,FALSE
+602,Jolyn,D'Avaux,64,jdavauxgp@wsj.com,Saint Lucia,,iPhone,295.22,3,16.9,5,TRUE
+603,Cristi,Sissland,55,csisslandgq@dagondesign.com,Ecuador,,iPhone,268.37,13,16.94,2,TRUE
+604,Leann,Priditt,73,lpridittgr@unc.edu,Sweden,901 86,Google Pixel,320.71,21,82.82,3,TRUE
+605,Christi,Cockshott,36,ccockshottgs@cafepress.com,Indonesia,,Google Pixel,589.21,18,22.18,4,TRUE
+606,Dermot,Records,65,drecordsgt@1688.com,Argentina,5911,Google Pixel,890.07,15,7.58,3,FALSE
+607,Andreas,Carnalan,22,acarnalangu@nyu.edu,Indonesia,,iPhone,534.53,10,71.84,3,TRUE
+608,Rowan,Novkovic,34,rnovkovicgv@de.vu,Indonesia,,Samsung Galaxy,0.79,1,88.04,3,TRUE
+609,Huntley,Kilfeather,57,hkilfeathergw@mtv.com,Vietnam,,Google Pixel,799.8,22,66.36,3,FALSE
+610,Flss,Cudiff,68,fcudiffgx@ucsd.edu,Portugal,4730-040,Samsung Galaxy,920.12,2,81.52,2,TRUE
+611,Isidora,Murkus,72,imurkusgy@naver.com,Sweden,418 72,iPhone,261.3,23,90.08,5,FALSE
+612,Cleopatra,Franseco,37,cfransecogz@w3.org,China,,Samsung Galaxy,868.85,1,93.72,1,FALSE
+613,Alaster,Tripean,23,atripeanh0@delicious.com,Brazil,86000-000,iPhone,602.34,13,31.62,4,TRUE
+614,Datha,Boxen,45,dboxenh1@scientificamerican.com,Belarus,,Samsung Galaxy,670.95,15,83.09,1,TRUE
+615,Barnard,Mattson,44,bmattsonh2@last.fm,Cameroon,,Samsung Galaxy,199.58,23,82.66,3,TRUE
+616,Kelila,Christy,32,kchristyh3@cnbc.com,Kyrgyzstan,,iPhone,456.61,19,5.21,2,TRUE
+617,Valentia,Mastrantone,46,vmastrantoneh4@cbsnews.com,Philippines,5043,iPhone,225.07,21,9.89,5,TRUE
+618,Caralie,Cuolahan,65,ccuolahanh5@elpais.com,Indonesia,,iPhone,723.65,8,63.28,4,FALSE
+619,Candis,Yakobowitch,75,cyakobowitchh6@google.ru,Russia,361424,iPhone,249.74,14,20.73,4,TRUE
+620,Ivor,Keynes,19,ikeynesh7@last.fm,Mexico,89355,Google Pixel,867.05,17,98.82,1,TRUE
+621,Shaina,Pittham,51,spitthamh8@multiply.com,China,,iPhone,189.83,14,36.85,4,TRUE
+622,Harlan,Leahair,40,hleahairh9@meetup.com,North Korea,,Google Pixel,781.24,16,21.43,3,FALSE
+623,Donna,Ansell,84,dansellha@sitemeter.com,Sweden,917 32,Samsung Galaxy,814.98,12,70.45,5,FALSE
+624,Maye,Klaff,64,mklaffhb@yolasite.com,China,,iPhone,615.73,17,11.6,3,TRUE
+625,Michale,Danko,83,mdankohc@ted.com,Bolivia,,Samsung Galaxy,924.43,3,37.73,1,FALSE
+626,Merci,Coltart,41,mcoltarthd@stanford.edu,China,,Samsung Galaxy,968.73,12,71.2,3,FALSE
+627,Rebecka,Mulrean,85,rmulreanhe@miibeian.gov.cn,Malaysia,93742,Google Pixel,974.58,11,17.93,2,FALSE
+628,Valencia,Belsham,60,vbelshamhf@comcast.net,Sierra Leone,,Samsung Galaxy,485.95,3,51.53,4,FALSE
+629,Ephrem,Hector,83,ehectorhg@artisteer.com,Indonesia,,Samsung Galaxy,65.63,1,66.3,2,FALSE
+630,Alta,Sambles,71,asambleshh@howstuffworks.com,Russia,353245,Google Pixel,155.91,13,95.25,1,TRUE
+631,Hashim,Ackerman,71,hackermanhi@thetimes.co.uk,Serbia,,iPhone,861.15,24,93.16,5,FALSE
+632,Reade,Scapens,37,rscapenshj@ehow.com,Indonesia,,iPhone,372.07,10,14.25,2,FALSE
+633,Nikola,McGarrell,63,nmcgarrellhk@storify.com,Philippines,3323,Samsung Galaxy,438.72,16,85.62,4,FALSE
+634,Normand,Toffler,32,ntofflerhl@mozilla.com,Iran,,Google Pixel,974.12,6,45.4,3,FALSE
+635,Tiffi,Clapp,73,tclapphm@trellian.com,Nicaragua,,Samsung Galaxy,828.9,14,14.48,4,FALSE
+636,Jasun,Hamfleet,32,jhamfleethn@hud.gov,China,,iPhone,315.21,8,71.52,2,TRUE
+637,Witty,Matiebe,25,wmatiebeho@pbs.org,Indonesia,,Google Pixel,82,6,59.53,5,FALSE
+638,Aloise,Barkley,46,abarkleyhp@odnoklassniki.ru,Belarus,,Samsung Galaxy,882.94,6,29.07,2,FALSE
+639,Josee,Fidian,78,jfidianhq@pagesperso-orange.fr,Brazil,85800-000,iPhone,968.64,22,69.77,5,FALSE
+640,Darelle,Dungee,60,ddungeehr@symantec.com,Portugal,4950-740,Samsung Galaxy,997.84,5,84.4,1,TRUE
+641,Travers,McKerley,49,tmckerleyhs@ocn.ne.jp,Finland,74701,iPhone,894.31,6,36.92,1,FALSE
+642,Sander,Pickrill,81,spickrillht@twitter.com,Afghanistan,,iPhone,687.03,5,32.39,3,TRUE
+643,Dianna,Sisley,60,dsisleyhu@google.com.au,Brazil,89107-000,iPhone,677.28,13,9.64,4,FALSE
+644,Angil,Picken,67,apickenhv@liveinternet.ru,Russia,688000,Google Pixel,578.08,8,24.18,1,TRUE
+645,Viva,Yakovlev,48,vyakovlevhw@g.co,China,,Samsung Galaxy,593.19,16,31.42,1,FALSE
+646,Mindy,Underdown,28,munderdownhx@w3.org,China,,Google Pixel,272.22,19,16.16,3,TRUE
+647,Marcelo,Luipold,56,mluipoldhy@imgur.com,Brazil,73900-000,Samsung Galaxy,575.39,22,53.47,2,FALSE
+648,Hana,Varrow,33,hvarrowhz@wikia.com,China,,iPhone,426.18,5,16.7,2,TRUE
+649,Vinni,Trivett,21,vtrivetti0@wp.com,China,,Samsung Galaxy,693.18,13,14.98,1,TRUE
+650,Ira,Camamill,76,icamamilli1@mashable.com,Nigeria,,Google Pixel,86.34,12,97.36,5,TRUE
+651,Erhart,Drydale,50,edrydalei2@java.com,Argentina,7240,iPhone,987.11,7,29.44,2,FALSE
+652,Ardine,Colten,64,acolteni3@pcworld.com,Syria,,Google Pixel,125.59,5,44.13,2,FALSE
+653,Godart,Domoni,73,gdomonii4@nature.com,Brazil,14860-000,Google Pixel,464.4,2,25.05,3,TRUE
+654,Abdul,Brammall,34,abrammalli5@aboutads.info,Sweden,542 87,iPhone,363.42,5,34.93,2,TRUE
+655,Sebastiano,Milleton,71,smilletoni6@netscape.com,Canada,G8K,iPhone,880.77,14,24.81,3,TRUE
+656,Tammara,Reven,42,treveni7@tuttocitta.it,China,,Google Pixel,328.07,19,5.6,3,FALSE
+657,Leone,Hatherleigh,72,lhatherleighi8@printfriendly.com,Indonesia,,Samsung Galaxy,631.07,22,18.97,4,FALSE
+658,Grata,Ivanilov,49,givanilovi9@hp.com,Myanmar,,Google Pixel,343.08,7,0.14,4,TRUE
+659,Lida,Brugger,35,lbruggeria@amazon.de,Poland,80-174,Samsung Galaxy,522.7,11,95.16,3,TRUE
+660,Mahmoud,Benford,25,mbenfordib@blogtalkradio.com,Peru,,Google Pixel,269.86,13,27.83,5,FALSE
+661,Arther,Selman,56,aselmanic@yolasite.com,Sweden,172 29,iPhone,244.83,3,97.89,3,FALSE
+662,Dorene,Rowlett,77,drowlettid@xing.com,Finland,91601,Samsung Galaxy,904.01,18,30.33,2,FALSE
+663,Tedda,Tures,50,tturesie@vkontakte.ru,China,,Google Pixel,825.4,7,51.99,2,TRUE
+664,Robyn,Dabernott,66,rdabernottif@google.co.jp,Estonia,,iPhone,642.33,3,54.55,4,FALSE
+665,Donavon,Serjeant,37,dserjeantig@topsy.com,Greece,,iPhone,310.83,11,30.74,5,TRUE
+666,Teddie,Sidry,77,tsidryih@about.me,China,,Google Pixel,186.71,12,45.28,3,FALSE
+667,Beatriz,Secrett,23,bsecrettii@alexa.com,Panama,,iPhone,737.78,7,79.37,5,TRUE
+668,Welsh,Kasparski,28,wkasparskiij@ycombinator.com,Portugal,3515-517,iPhone,264.02,5,56.62,5,FALSE
+669,Elaina,Millican,65,emillicanik@hostgator.com,China,,Samsung Galaxy,218.69,12,78.58,4,TRUE
+670,Ronda,Minister,48,rministeril@yellowbook.com,Vietnam,,iPhone,815.53,9,19.22,1,FALSE
+671,Jaime,Ast,30,jastim@twitter.com,China,,Samsung Galaxy,574.34,23,99.89,2,FALSE
+672,Verene,Darte,23,vdartein@weibo.com,Serbia,,Google Pixel,740.02,20,89.7,1,FALSE
+673,Blakeley,Deem,21,bdeemio@ucoz.com,Finland,91601,Google Pixel,475.25,11,6.07,5,TRUE
+674,Ahmed,Yvens,48,ayvensip@comsenz.com,Brazil,58135-000,iPhone,684.98,24,94.61,3,TRUE
+675,Fania,Manger,53,fmangeriq@skype.com,China,,iPhone,611.35,20,73.76,5,TRUE
+676,Gigi,Rohlfs,77,grohlfsir@edublogs.org,France,94598 CEDEX 2,Samsung Galaxy,865.73,23,24.93,3,TRUE
+677,Artair,Simoneton,41,asimonetonis@discovery.com,Japan,999-3242,Google Pixel,325.16,13,33.2,2,FALSE
+678,Vonnie,Dallas,42,vdallasit@bloglovin.com,Czech Republic,783 06,Samsung Galaxy,514.13,11,87.53,2,TRUE
+679,Christie,Holdey,19,choldeyiu@hc360.com,Portugal,5400-006,Samsung Galaxy,307.28,14,72.72,1,FALSE
+680,Jeno,Outridge,85,joutridgeiv@bravesites.com,Poland,38-112,Google Pixel,99.52,8,96.72,4,TRUE
+681,Pru,Voas,25,pvoasiw@bravesites.com,Russia,397608,Google Pixel,360.33,21,66.97,1,FALSE
+682,Debbi,Tropman,47,dtropmanix@is.gd,Portugal,4850-194,iPhone,136.88,9,52.41,1,TRUE
+683,Toiboid,Cridlin,56,tcridliniy@sphinn.com,Poland,76-248,iPhone,537.98,10,57,5,TRUE
+684,Callean,Savery,46,csaveryiz@fda.gov,Czech Republic,517 02,iPhone,210.69,18,51.04,3,FALSE
+685,Karrie,Gibbeson,40,kgibbesonj0@exblog.jp,Indonesia,,Google Pixel,192.61,4,18.1,1,TRUE
+686,Rebecka,Sporle,29,rsporlej1@bluehost.com,Canada,T5K,iPhone,225.24,10,90.75,3,TRUE
+687,Lanny,Bonhomme,49,lbonhommej2@va.gov,Yemen,,Google Pixel,784.3,3,2.03,5,TRUE
+688,Garnette,Loughhead,53,gloughheadj3@tripod.com,Indonesia,,iPhone,330.66,10,30.62,2,TRUE
+689,Carina,Land,36,clandj4@google.cn,Mexico,52600,Google Pixel,658.47,24,10.86,3,TRUE
+690,Ede,Derye-Barrett,73,ederyebarrettj5@typepad.com,Argentina,3374,Google Pixel,966.73,22,43.15,2,FALSE
+691,Yul,Loughran,20,yloughranj6@hostgator.com,China,,iPhone,392,4,9.83,5,FALSE
+692,Immanuel,Kennally,83,ikennallyj7@soundcloud.com,Sweden,957 99,iPhone,257.16,8,7.97,3,FALSE
+693,Wylma,Sherrin,54,wsherrinj8@360.cn,Russia,143969,Google Pixel,679.13,16,92.63,1,FALSE
+694,Reed,Wickey,63,rwickeyj9@mac.com,China,,Google Pixel,787.78,18,31.42,5,TRUE
+695,Oralia,Penney,47,openneyja@flickr.com,Indonesia,,iPhone,287.61,3,11.59,4,FALSE
+696,Edan,D'Andrea,41,edandreajb@alibaba.com,Ivory Coast,,iPhone,84.04,9,6.6,3,FALSE
+697,Shandee,Aburrow,60,saburrowjc@tinyurl.com,China,,iPhone,140.33,3,21.38,2,FALSE
+698,Carolee,Kirkbright,22,ckirkbrightjd@artisteer.com,Indonesia,,Samsung Galaxy,287.52,2,16.11,2,FALSE
+699,Joanna,Feasley,77,jfeasleyje@ucla.edu,Nepal,,iPhone,996.59,12,14.68,4,FALSE
+700,Germayne,Fontaine,60,gfontainejf@redcross.org,Uzbekistan,,Samsung Galaxy,954.86,12,50.89,1,TRUE
+701,Gerladina,Eronie,70,geroniejg@arstechnica.com,Philippines,2419,iPhone,549.54,5,88.82,5,TRUE
+702,Jillane,Geale,27,jgealejh@answers.com,Ireland,D02,Google Pixel,219.11,23,18.21,2,TRUE
+703,Keefe,Wrathall,75,kwrathallji@4shared.com,Panama,,Samsung Galaxy,684.57,18,22.55,4,TRUE
+704,Yule,Teale,61,ytealejj@amazon.co.uk,Argentina,2434,iPhone,676.81,8,21.85,3,FALSE
+705,Kinnie,Salomon,58,ksalomonjk@arizona.edu,Greece,,Samsung Galaxy,255.06,10,14.05,5,TRUE
+706,Paulie,Whyley,45,pwhyleyjl@people.com.cn,Albania,,iPhone,554.84,18,29.42,5,TRUE
+707,Crosby,Crannell,58,ccrannelljm@360.cn,Indonesia,,Samsung Galaxy,258.79,22,33.26,5,TRUE
+708,Bartolomeo,Barnewille,48,bbarnewillejn@globo.com,Indonesia,,Samsung Galaxy,189.21,21,84.9,2,TRUE
+709,Brittany,Search,69,bsearchjo@youtu.be,Poland,16-303,Samsung Galaxy,303.29,22,45.43,2,TRUE
+710,Kerstin,Haton,64,khatonjp@prlog.org,Indonesia,,iPhone,118.06,16,17.68,1,FALSE
+711,Kenn,Canadine,29,kcanadinejq@sogou.com,France,91154 CEDEX,iPhone,106.07,3,43.81,3,TRUE
+712,Ernest,Graveston,40,egravestonjr@dion.ne.jp,Finland,81101,Samsung Galaxy,777.77,23,46.12,1,TRUE
+713,Dulcie,Farre,84,dfarrejs@php.net,Lithuania,71085,iPhone,675.81,1,44.4,5,FALSE
+714,Gipsy,Birrel,74,gbirreljt@sina.com.cn,Brazil,35150-000,Google Pixel,221.71,11,53.03,1,TRUE
+715,Andras,Biggen,65,abiggenju@springer.com,China,,Google Pixel,824.56,19,52.73,1,TRUE
+716,Cilka,Stott,57,cstottjv@ustream.tv,Indonesia,,iPhone,199.18,18,53,5,FALSE
+717,Klarrisa,Baulch,54,kbaulchjw@yahoo.co.jp,Portugal,4950-840,iPhone,410.69,1,37.25,5,FALSE
+718,Pru,Beachem,42,pbeachemjx@wired.com,Indonesia,,iPhone,249.99,7,35.14,1,TRUE
+719,Ax,Thowless,61,athowlessjy@g.co,China,,Google Pixel,383.08,8,1.1,4,TRUE
+720,Francoise,Proudlock,82,fproudlockjz@europa.eu,South Africa,1256,Samsung Galaxy,78.26,8,59.41,3,TRUE
+721,Sherline,Kordt,27,skordtk0@geocities.com,Mexico,93605,Google Pixel,504.53,8,22.14,5,TRUE
+722,Stacy,Metcalf,80,smetcalfk1@prlog.org,Japan,955-0156,Samsung Galaxy,612.5,7,9.17,1,TRUE
+723,Blaire,Rouff,37,brouffk2@google.it,Portugal,5155-104,Samsung Galaxy,163.56,24,2.31,2,FALSE
+724,Sibylla,Entwisle,71,sentwislek3@auda.org.au,China,,Samsung Galaxy,698.93,10,86.2,5,TRUE
+725,Harwilll,Lubbock,44,hlubbockk4@va.gov,China,,iPhone,683.89,1,78.61,4,FALSE
+726,Carline,Diggons,76,cdiggonsk5@salon.com,Japan,426-0061,Google Pixel,395.79,19,29.45,4,TRUE
+727,Ange,Pole,57,apolek6@paginegialle.it,United States,98506,iPhone,827.63,13,8.44,2,FALSE
+728,Selma,Lodo,63,slodok7@unicef.org,China,,Google Pixel,992.98,22,33.15,4,FALSE
+729,Rudie,Graybeal,58,rgraybealk8@ucsd.edu,Syria,,iPhone,959.33,15,79.39,2,FALSE
+730,Daisi,Parzizek,67,dparzizekk9@delicious.com,China,,Samsung Galaxy,888.12,17,35.53,1,TRUE
+731,Susie,O'Shevlin,74,soshevlinka@google.ru,North Korea,,Google Pixel,510.24,12,55.29,1,TRUE
+732,Emelyne,Wing,40,ewingkb@i2i.jp,Slovenia,2314,Google Pixel,741.96,9,95.68,5,FALSE
+733,Carroll,Pyer,48,cpyerkc@qq.com,China,,iPhone,528.72,21,56.2,2,TRUE
+734,Janna,Kinver,39,jkinverkd@usnews.com,China,,Google Pixel,171.96,14,47.71,4,TRUE
+735,Lind,Morphew,18,lmorphewke@ucsd.edu,Indonesia,,iPhone,986.03,16,5.07,4,TRUE
+736,Reggie,Earie,25,reariekf@smugmug.com,Indonesia,,Google Pixel,207.05,7,58.81,2,FALSE
+737,Trstram,Triplet,31,ttripletkg@blogspot.com,Czech Republic,373 41,iPhone,241.99,10,48.36,2,TRUE
+738,Ailyn,Wooler,82,awoolerkh@4shared.com,Germany,52080,Google Pixel,94.11,14,73.43,5,TRUE
+739,Shannan,Yuryatin,75,syuryatinki@php.net,Russia,174510,Google Pixel,180.91,10,47.08,4,TRUE
+740,Rena,Boller,84,rbollerkj@examiner.com,Indonesia,,Samsung Galaxy,859.42,8,56.22,5,FALSE
+741,Lora,Larive,36,llarivekk@soundcloud.com,Sweden,801 74,Google Pixel,767.49,12,39.99,3,TRUE
+742,Sara,Schindler,84,sschindlerkl@wix.com,Poland,34-211,Google Pixel,180.83,21,41.64,4,TRUE
+743,Robinson,Burkert,32,rburkertkm@msu.edu,Australia,6817,iPhone,724.89,17,91.39,2,TRUE
+744,Norri,Rosewell,63,nrosewellkn@cdbaby.com,United States,79165,Google Pixel,624.82,21,35.76,1,FALSE
+745,Solomon,Boc,80,sbocko@nyu.edu,Portugal,6005-005,Google Pixel,166.69,24,10.49,1,TRUE
+746,Jaime,Liddel,82,jliddelkp@behance.net,Sweden,506 40,Samsung Galaxy,609.34,12,72.8,3,FALSE
+747,Ennis,Lilliman,80,elillimankq@livejournal.com,Portugal,4890-055,Samsung Galaxy,331.39,2,15.7,5,TRUE
+748,Guglielmo,Jameson,58,gjamesonkr@timesonline.co.uk,Peru,,iPhone,436.45,7,67.12,4,TRUE
+749,Somerset,Jakubovicz,85,sjakuboviczks@guardian.co.uk,China,,Google Pixel,888.94,13,29.71,4,FALSE
+750,Innis,Falkus,64,ifalkuskt@washington.edu,French Polynesia,,Samsung Galaxy,859.2,20,67.1,4,TRUE
+751,Kippy,Kaliszewski,18,kkaliszewskiku@etsy.com,Russia,412975,Samsung Galaxy,751.66,16,45.49,3,TRUE
+752,Verena,Gareisr,45,vgareisrkv@slashdot.org,China,,iPhone,829,2,0.12,5,FALSE
+753,Brittani,Ikins,36,bikinskw@meetup.com,China,,Samsung Galaxy,749.84,19,28.11,1,FALSE
+754,Rhoda,Berthon,80,rberthonkx@mozilla.org,Peru,,Samsung Galaxy,728.87,19,21.03,4,TRUE
+755,Vivyanne,Siaspinski,36,vsiaspinskiky@desdev.cn,China,,iPhone,479.99,16,52.9,4,FALSE
+756,Caddric,Gravie,39,cgraviekz@wp.com,Mexico,96880,Google Pixel,103.86,1,38.08,3,FALSE
+757,Gabi,Orteaux,79,gorteauxl0@java.com,United States,20051,Samsung Galaxy,720.37,15,19.86,5,FALSE
+758,Aleta,Accombe,25,aaccombel1@springer.com,Russia,172389,Google Pixel,548.82,9,38.35,5,TRUE
+759,Imogene,Coogan,63,icooganl2@nba.com,Sweden,611 24,Google Pixel,997.02,5,50.39,2,FALSE
+760,Antonino,Idiens,69,aidiensl3@networkadvertising.org,Indonesia,,Google Pixel,630.96,12,22.92,4,TRUE
+761,Oberon,Bartoszewicz,65,obartoszewiczl4@cocolog-nifty.com,Russia,452857,Samsung Galaxy,128.37,2,28.14,3,TRUE
+762,Esme,Votier,29,evotierl5@soundcloud.com,Russia,187412,iPhone,847.78,21,85.81,4,FALSE
+763,Jeno,Bowling,24,jbowlingl6@google.pl,Estonia,,Samsung Galaxy,757.41,21,28.37,3,TRUE
+764,Fletch,Crayden,33,fcraydenl7@howstuffworks.com,Serbia,,Google Pixel,427.84,20,81.77,2,TRUE
+765,Randolph,Pudan,56,rpudanl8@imageshack.us,Indonesia,,Samsung Galaxy,513.22,4,45.72,5,TRUE
+766,Krystle,Wallbanks,80,kwallbanksl9@paypal.com,Indonesia,,Google Pixel,728.48,1,42.12,1,FALSE
+767,Bruce,Downie,59,bdowniela@miibeian.gov.cn,Chad,,iPhone,373.53,10,79.06,4,FALSE
+768,Raviv,Hacquoil,41,rhacquoillb@yellowbook.com,Comoros,,Samsung Galaxy,586.65,8,16.55,5,TRUE
+769,Leandra,Gaish,48,lgaishlc@psu.edu,China,,Google Pixel,843.17,13,97.44,5,FALSE
+770,Dud,Sambals,72,dsambalsld@smugmug.com,Indonesia,,iPhone,6.69,14,57.96,1,TRUE
+771,Carlo,Decort,32,cdecortle@blogs.com,China,,Google Pixel,348.59,15,67.02,5,FALSE
+772,Osborne,Aldridge,26,oaldridgelf@hud.gov,Japan,822-0003,Google Pixel,608.33,23,75.49,1,TRUE
+773,Coop,Devaney,57,cdevaneylg@sina.com.cn,Portugal,9970-244,Samsung Galaxy,203.54,23,11.21,3,FALSE
+774,Fay,Manicomb,40,fmanicomblh@booking.com,Tanzania,,Google Pixel,865.44,7,72.25,1,TRUE
+775,Doris,Hitschke,51,dhitschkeli@businessweek.com,Brazil,35720-000,Google Pixel,340.52,10,26.32,3,TRUE
+776,Culley,D'eathe,80,cdeathelj@apple.com,United States,31119,Samsung Galaxy,17.98,13,28.47,2,TRUE
+777,Halie,McInility,20,hmcinilitylk@free.fr,China,,Samsung Galaxy,426.1,5,87.67,4,TRUE
+778,Imojean,Lewsam,39,ilewsamll@behance.net,Madagascar,,Google Pixel,170.76,13,97.62,2,TRUE
+779,Adriana,Tyzack,82,atyzacklm@apple.com,Indonesia,,Google Pixel,99.38,15,78.98,4,TRUE
+780,Spence,Medgwick,37,smedgwickln@people.com.cn,Indonesia,,Samsung Galaxy,131.46,1,81.77,1,FALSE
+781,Lanette,Tennick,69,ltennicklo@chron.com,Philippines,2805,Google Pixel,934.54,4,6.36,5,TRUE
+782,Rosalyn,Lewry,59,rlewrylp@blinklist.com,Mongolia,,iPhone,166.78,6,37.87,3,FALSE
+783,Geoff,Dark,26,gdarklq@tumblr.com,Slovenia,4228,Samsung Galaxy,882.1,23,72.7,3,TRUE
+784,Jed,Belitz,36,jbelitzlr@squarespace.com,Czech Republic,273 71,Samsung Galaxy,302.4,6,21.08,5,TRUE
+785,Angelina,Labern,55,alabernls@fc2.com,Sweden,412 20,Google Pixel,254.14,9,1.82,5,TRUE
+786,Erica,Leftwich,82,eleftwichlt@joomla.org,France,62070 CEDEX 9,Google Pixel,746.97,11,14.18,5,TRUE
+787,Allsun,Mc Harg,33,amcharglu@si.edu,Poland,08-470,Google Pixel,942.53,4,7.92,4,FALSE
+788,Pauletta,Rainard,64,prainardlv@reuters.com,Russia,303623,Samsung Galaxy,721.56,13,2,1,TRUE
+789,Dennet,Melior,80,dmeliorlw@shareasale.com,United States,32590,Google Pixel,691.91,11,65.01,5,FALSE
+790,Gerald,Gong,49,ggonglx@sfgate.com,Indonesia,,Samsung Galaxy,482.19,17,36.57,5,FALSE
+791,Sonja,Burdikin,52,sburdikinly@ox.ac.uk,Albania,,iPhone,450.94,24,50.46,3,TRUE
+792,Emelda,Dunford,48,edunfordlz@quantcast.com,Philippines,7213,Google Pixel,339.22,2,42.6,3,TRUE
+793,Balduin,Berkeley,47,bberkeleym0@ehow.com,United States,88519,iPhone,849.6,1,8.82,4,TRUE
+794,Beck,Dictus,55,bdictusm1@sphinn.com,China,,iPhone,170.45,2,67.27,4,TRUE
+795,Christel,Di Francesco,85,cdifrancescom2@walmart.com,Kenya,,Samsung Galaxy,737.54,20,38.03,1,TRUE
+796,Minta,Bidder,85,mbidderm3@google.com.hk,Brazil,55570-000,Samsung Galaxy,525.87,3,29.21,4,TRUE
+797,Desirae,Sprade,30,dspradem4@xrea.com,Ukraine,,iPhone,702.08,17,45.82,4,TRUE
+798,Waldon,Fetherstonhaugh,38,wfetherstonhaughm5@jugem.jp,North Korea,,iPhone,388.23,3,77.99,1,TRUE
+799,Hendrika,Birwhistle,34,hbirwhistlem6@parallels.com,Japan,676-0828,Google Pixel,186.39,4,61.23,4,TRUE
+800,Ingemar,Yell,79,iyellm7@adobe.com,Indonesia,,Google Pixel,113.63,8,88.47,4,FALSE
+801,Freddy,Munnis,37,fmunnism8@networksolutions.com,United States,25336,Google Pixel,740.45,16,41.67,1,FALSE
+802,Arlee,Bonavia,47,abonaviam9@mysql.com,Russia,188732,iPhone,883.21,18,6.11,5,FALSE
+803,Renard,McMillian,59,rmcmillianma@de.vu,Armenia,,Google Pixel,9.48,4,7.14,2,TRUE
+804,Modestia,Derham,58,mderhammb@imdb.com,Czech Republic,357 33,iPhone,352.31,15,62.57,1,TRUE
+805,Glad,Pimme,79,gpimmemc@ca.gov,Morocco,,Google Pixel,538.74,4,64.12,2,FALSE
+806,Brenden,Fosse,68,bfossemd@examiner.com,Dominican Republic,10210,Google Pixel,45.29,21,21.45,3,TRUE
+807,Adler,Gonnet,18,agonnetme@time.com,Ukraine,,Google Pixel,797.63,17,32.54,5,FALSE
+808,Correna,Rigby,24,crigbymf@1und1.de,Brazil,63540-000,iPhone,944.65,1,72.55,4,FALSE
+809,Jacki,Heinert,33,jheinertmg@unesco.org,Russia,369236,iPhone,322.63,23,10.62,1,FALSE
+810,Berni,Maccrea,44,bmaccreamh@fema.gov,Bangladesh,6100,Samsung Galaxy,423.86,10,83.41,4,TRUE
+811,Moshe,Gumary,45,mgumarymi@list-manage.com,China,,iPhone,419.23,3,17.14,1,TRUE
+812,Patricia,Ferrillo,47,pferrillomj@technorati.com,Georgia,,Samsung Galaxy,270.52,20,78.08,5,TRUE
+813,Dag,Edowes,28,dedowesmk@creativecommons.org,Russia,184021,Samsung Galaxy,625.93,6,1.87,5,TRUE
+814,Silvester,Daniell,62,sdaniellml@gnu.org,France,75188 CEDEX 04,iPhone,999.68,16,95.63,2,TRUE
+815,Karon,Wilcocke,51,kwilcockemm@kickstarter.com,Philippines,7209,Google Pixel,897.3,11,6.52,3,TRUE
+816,Veronique,Streeting,58,vstreetingmn@sfgate.com,Canada,T7A,Google Pixel,730.48,11,22.7,2,FALSE
+817,Fritz,Hollingsbee,55,fhollingsbeemo@arstechnica.com,Greece,,iPhone,383.08,13,82.82,1,FALSE
+818,Arty,Esland,18,aeslandmp@craigslist.org,Lebanon,,Samsung Galaxy,769.76,23,18.63,1,FALSE
+819,Rea,Fitzharris,74,rfitzharrismq@cpanel.net,Nigeria,,Google Pixel,337.41,22,66.22,4,TRUE
+820,Duke,Lerer,84,dlerermr@ebay.co.uk,Tajikistan,,Google Pixel,43.03,14,6.43,1,FALSE
+821,Jaquelyn,Handy,51,jhandyms@cpanel.net,China,,Google Pixel,372.79,21,95.02,2,FALSE
+822,Kerstin,Folomkin,55,kfolomkinmt@eventbrite.com,Pakistan,69060,Google Pixel,486.71,6,25.96,3,FALSE
+823,Alida,Duetsche,52,aduetschemu@ezinearticles.com,Bosnia and Herzegovina,,Samsung Galaxy,619.58,2,57.86,2,TRUE
+824,Jaquelyn,Mariette,28,jmariettemv@yahoo.co.jp,Cuba,,Google Pixel,950.57,21,2.56,1,FALSE
+825,Emmalynn,Dormand,28,edormandmw@about.com,Greece,,iPhone,393.6,24,61.02,4,FALSE
+826,Der,Fitchett,47,dfitchettmx@ocn.ne.jp,Portugal,2635-483,Samsung Galaxy,8.52,24,4.07,3,FALSE
+827,Galina,Schrieves,34,gschrievesmy@elpais.com,Sweden,535 91,Google Pixel,82.06,16,70.94,5,FALSE
+828,Marya,Wyson,36,mwysonmz@intel.com,Russia,157780,Samsung Galaxy,434.57,4,24.08,3,TRUE
+829,Cesaro,Dawks,81,cdawksn0@yolasite.com,Malaysia,15604,Samsung Galaxy,325.34,13,37.37,3,TRUE
+830,Carissa,MacCarrane,21,cmaccarranen1@europa.eu,France,84404 CEDEX,Google Pixel,404.77,20,19.39,4,TRUE
+831,Lamond,Gavriel,69,lgavrieln2@mediafire.com,China,,Samsung Galaxy,890.17,20,5.95,4,FALSE
+832,Danya,Kynoch,43,dkynochn3@skyrock.com,Czech Republic,382 91,Samsung Galaxy,313.39,6,25.71,1,FALSE
+833,Dewey,Orth,50,dorthn4@cafepress.com,Honduras,,Samsung Galaxy,401.99,3,87.59,3,FALSE
+834,Trstram,Sweetlove,23,tsweetloven5@sitemeter.com,Indonesia,,Google Pixel,850.07,17,30.62,4,TRUE
+835,Baxy,Catlette,43,bcatletten6@walmart.com,Uganda,,iPhone,860.75,16,16.85,2,FALSE
+836,Darnell,Hedderly,22,dhedderlyn7@netlog.com,Japan,992-0351,Samsung Galaxy,691.65,8,11.22,5,FALSE
+837,Yolanda,Tarrant,31,ytarrantn8@fotki.com,China,,iPhone,40.08,2,5.91,5,FALSE
+838,Chas,Yexley,27,cyexleyn9@live.com,Russia,692980,Samsung Galaxy,798.25,6,73.81,5,TRUE
+839,Noelani,Karlik,54,nkarlikna@devhub.com,Afghanistan,,iPhone,229.91,11,59.08,5,TRUE
+840,Yelena,Defond,52,ydefondnb@aboutads.info,Colombia,880028,iPhone,720.3,5,50.35,2,FALSE
+841,Olia,Ebben,84,oebbennc@newyorker.com,Afghanistan,,iPhone,93.25,17,84.44,5,FALSE
+842,Calley,Dubbin,21,cdubbinnd@sakura.ne.jp,Mexico,68213,Google Pixel,276.91,23,62.62,5,FALSE
+843,Shari,Blogg,53,sbloggne@geocities.jp,Brazil,48000-000,Samsung Galaxy,620.66,13,29.55,5,TRUE
+844,Corinne,Gercke,18,cgerckenf@wikipedia.org,France,31079 CEDEX 5,Google Pixel,107.42,17,28.99,4,TRUE
+845,Trefor,Calken,50,tcalkenng@senate.gov,Colombia,418077,Google Pixel,458.73,7,12.72,5,FALSE
+846,Idalia,Tours,63,itoursnh@cyberchimps.com,Brazil,87700-000,Samsung Galaxy,686.75,5,39.62,5,FALSE
+847,Kinsley,Werrit,44,kwerritni@house.gov,China,,iPhone,569.3,8,95.74,3,FALSE
+848,Solomon,Osgar,34,sosgarnj@mit.edu,China,,iPhone,676.17,3,26.12,2,FALSE
+849,Amalita,Orniz,25,aorniznk@disqus.com,Honduras,,Samsung Galaxy,551.94,18,25.66,1,TRUE
+850,Conni,Cumpton,33,ccumptonnl@hao123.com,Portugal,4745-380,Google Pixel,458.43,23,5.09,4,TRUE
+851,Nichol,Fills,54,nfillsnm@oaic.gov.au,Serbia,,Samsung Galaxy,778.85,10,45.11,4,TRUE
+852,Janice,Casotti,41,jcasottinn@multiply.com,Sweden,721 85,Google Pixel,570.34,16,55.43,4,TRUE
+853,Finlay,Wildman,59,fwildmanno@archive.org,Czech Republic,565 01,Samsung Galaxy,751.02,6,11.45,4,FALSE
+854,Krishna,Garces,79,kgarcesnp@theglobeandmail.com,China,,Google Pixel,295.63,21,13.65,5,TRUE
+855,Gypsy,Skeels,67,gskeelsnq@baidu.com,China,,iPhone,516.37,16,1.66,4,TRUE
+856,Roderigo,Alvares,47,ralvaresnr@studiopress.com,New Zealand,4848,Samsung Galaxy,871.31,3,32.25,5,TRUE
+857,Marielle,Bullin,85,mbullinns@altervista.org,Thailand,46110,iPhone,574.31,3,57.66,4,FALSE
+858,Dionisio,Adam,78,dadamnt@eventbrite.com,Japan,870-0106,Samsung Galaxy,361.68,19,34.35,4,TRUE
+859,Flossie,Champagne,47,fchampagnenu@sina.com.cn,Ukraine,,Samsung Galaxy,167.8,15,86.54,3,TRUE
+860,Alwin,Edgecombe,49,aedgecombenv@taobao.com,France,75976 CEDEX 20,iPhone,230.87,5,25.6,3,FALSE
+861,Mavis,Wroughton,37,mwroughtonnw@de.vu,South Africa,5097,Samsung Galaxy,642.06,1,29.1,3,TRUE
+862,Maren,Hawksby,27,mhawksbynx@alibaba.com,Philippines,2419,iPhone,77.9,9,74.37,5,FALSE
+863,Haleigh,Hammerton,28,hhammertonny@tripod.com,Venezuela,,iPhone,824.87,9,30.72,2,FALSE
+864,Wini,Dettmar,67,wdettmarnz@fc2.com,Russia,352174,Samsung Galaxy,198.01,24,50.87,3,TRUE
+865,Dael,Gerhold,48,dgerholdo0@cisco.com,China,,Samsung Galaxy,643.24,18,18.4,4,TRUE
+866,Rebeca,Shovell,84,rshovello1@shareasale.com,Denmark,1131,iPhone,997.32,13,47.97,5,TRUE
+867,Lesly,Redgrave,69,lredgraveo2@uol.com.br,Venezuela,,iPhone,528.65,6,59.46,3,TRUE
+868,Ulrica,O'Meara,49,uomearao3@npr.org,Indonesia,,Samsung Galaxy,344.08,20,55.5,5,FALSE
+869,Bartlet,Lees,24,bleeso4@mapquest.com,Poland,32-020,Samsung Galaxy,768.93,16,59.3,2,TRUE
+870,Elinor,Danat,76,edanato5@dyndns.org,Mexico,58503,Samsung Galaxy,563.93,22,63.37,5,TRUE
+871,Kara-lynn,Reyne,35,kreyneo6@imgur.com,China,,iPhone,364.61,1,0.59,5,TRUE
+872,Florri,Chamney,23,fchamneyo7@dmoz.org,Thailand,93120,iPhone,58.27,24,29.32,2,TRUE
+873,Faunie,Bleazard,55,fbleazardo8@slate.com,Brazil,35720-000,iPhone,369.96,22,93.6,1,FALSE
+874,Roselia,Allbon,46,rallbono9@nature.com,Russia,632868,Samsung Galaxy,131.76,9,26.14,5,TRUE
+875,Suzie,Reignolds,43,sreignoldsoa@apache.org,Bosnia and Herzegovina,,Google Pixel,491.38,6,77.06,3,FALSE
+876,Wit,Parnell,32,wparnellob@wsj.com,Russia,461199,Google Pixel,108.42,11,82.99,1,TRUE
+877,Arlan,April,64,aapriloc@joomla.org,Ethiopia,,Google Pixel,754.06,11,48.21,4,TRUE
+878,Gabe,Bramont,78,gbramontod@mail.ru,Sweden,881 52,Google Pixel,203.43,18,44.74,4,FALSE
+879,Berty,Semour,84,bsemouroe@hao123.com,Sri Lanka,10600,iPhone,284.51,24,76.78,5,FALSE
+880,Marje,Shutt,70,mshuttof@who.int,Russia,186167,iPhone,195.67,1,89.51,5,TRUE
+881,Sandy,Poulsom,41,spoulsomog@oracle.com,Ivory Coast,,Google Pixel,313.06,14,57.96,1,FALSE
+882,Northrop,Gypson,36,ngypsonoh@facebook.com,Iran,,Google Pixel,455.8,15,50.44,5,TRUE
+883,Darsie,Murtimer,54,dmurtimeroi@nifty.com,Japan,929-1174,iPhone,390.23,18,21.42,2,FALSE
+884,Conway,Meecher,49,cmeecheroj@yahoo.co.jp,China,,Samsung Galaxy,574.2,10,73.76,2,TRUE
+885,Bobbette,Biggen,68,bbiggenok@ocn.ne.jp,Philippines,6720,iPhone,960.07,9,30.39,4,TRUE
+886,Arney,Heckner,70,ahecknerol@mashable.com,Japan,822-0034,iPhone,298.63,2,15.23,3,FALSE
+887,Marilee,How to preserve,62,mhowtopreserveom@cisco.com,China,,Google Pixel,400.28,13,67.44,5,TRUE
+888,Eli,Borzoni,58,eborzonion@adobe.com,France,69345 CEDEX 07,iPhone,224.38,2,58.81,2,TRUE
+889,Francesca,Mattke,80,fmattkeoo@ask.com,France,77708 CEDEX 4,iPhone,256.95,16,4.35,2,FALSE
+890,Morie,Cruise,32,mcruiseop@plala.or.jp,Sri Lanka,60000,Samsung Galaxy,806.01,8,48.32,5,TRUE
+891,Kirbie,Fernant,67,kfernantoq@biglobe.ne.jp,Ethiopia,,Samsung Galaxy,542.62,20,50.73,5,FALSE
+892,Inness,MacWhirter,26,imacwhirteror@chicagotribune.com,United States,48126,iPhone,555.34,17,75.67,3,FALSE
+893,Tandy,Gazzard,80,tgazzardos@mozilla.org,China,,Google Pixel,541.81,12,33.98,2,TRUE
+894,Rosalyn,Le Pine,56,rlepineot@clickbank.net,Poland,32-432,Google Pixel,86.75,21,44.22,4,FALSE
+895,Coral,Oddy,51,coddyou@virginia.edu,Croatia,21480,Google Pixel,240.49,20,79.26,4,TRUE
+896,Nahum,Fist,27,nfistov@live.com,China,,Google Pixel,81.38,6,74.44,4,TRUE
+897,Margalit,Scholard,58,mscholardow@springer.com,China,,iPhone,462.79,23,35.41,5,FALSE
+898,Teodoor,Wybourne,70,twybourneox@hud.gov,China,,iPhone,474.24,9,92.99,4,FALSE
+899,Ahmad,Runacres,45,arunacresoy@auda.org.au,Brazil,14730-000,Google Pixel,805.81,21,77.35,2,TRUE
+900,Joey,Beckham,60,jbeckhamoz@creativecommons.org,Portugal,3405-605,Google Pixel,62.95,12,74.45,1,TRUE
+901,Hubie,Adel,27,hadelp0@msu.edu,Brazil,44380-000,Google Pixel,393.09,13,88.45,5,TRUE
+902,Thomasina,Krzyzanowski,41,tkrzyzanowskip1@plala.or.jp,China,,Samsung Galaxy,634.71,5,8.27,5,FALSE
+903,Vincents,Zahor,23,vzahorp2@eepurl.com,China,,iPhone,463.35,13,46.23,2,TRUE
+904,Ulrica,Doud,18,udoudp3@fda.gov,Poland,57-340,Google Pixel,458.95,5,10.8,2,FALSE
+905,Jacob,Clover,21,jcloverp4@yellowbook.com,China,,Google Pixel,754.12,2,7.81,4,TRUE
+906,Peggie,Soffe,43,psoffep5@ocn.ne.jp,China,,Samsung Galaxy,262.86,2,12.59,2,FALSE
+907,Gino,Wellard,57,gwellardp6@facebook.com,Canada,N0N,Samsung Galaxy,993.09,16,96.93,5,FALSE
+908,Damien,Puddephatt,66,dpuddephattp7@chicagotribune.com,China,,Google Pixel,207.05,7,33.66,1,TRUE
+909,Bryana,Jeremiah,69,bjeremiahp8@nba.com,China,,Google Pixel,260.33,10,35.91,1,FALSE
+910,Byrom,Lesser,31,blesserp9@oakley.com,Peru,,iPhone,823.09,12,9.09,1,TRUE
+911,Arlana,Oggers,30,aoggerspa@tinypic.com,Brazil,75250-000,Samsung Galaxy,333.53,11,55.01,3,FALSE
+912,Kiel,Hindhaugh,85,khindhaughpb@taobao.com,South Korea,,iPhone,593.9,9,55.53,4,FALSE
+913,Chrysler,Wassung,22,cwassungpc@pen.io,China,,iPhone,558.52,12,45.14,2,FALSE
+914,Talbot,Inglese,31,tinglesepd@sciencedirect.com,United States,76178,Google Pixel,964.77,7,88.45,2,FALSE
+915,Alice,Casterot,76,acasterotpe@51.la,Thailand,63120,Samsung Galaxy,435.51,19,12.99,4,FALSE
+916,Ursala,Barock,76,ubarockpf@hc360.com,Albania,,Google Pixel,791.24,9,41.45,4,TRUE
+917,Dee,Guyer,74,dguyerpg@reuters.com,Brazil,55000-000,iPhone,378.62,15,45.53,5,TRUE
+918,Derek,Selburn,84,dselburnph@netlog.com,Indonesia,,Samsung Galaxy,419.1,12,54.15,1,TRUE
+919,Austina,Huskisson,20,ahuskissonpi@rakuten.co.jp,Poland,66-130,Google Pixel,569.66,7,60.87,5,FALSE
+920,Abbie,Arnke,47,aarnkepj@bloglines.com,Thailand,30110,iPhone,973.67,18,30.25,3,FALSE
+921,Lisle,Balasini,84,lbalasinipk@arizona.edu,China,,Google Pixel,296.95,3,26.62,2,TRUE
+922,Merrill,Valdes,28,mvaldespl@fc2.com,Gambia,,iPhone,144.25,3,66.1,4,TRUE
+923,Kikelia,Aveling,42,kavelingpm@globo.com,Poland,34-432,Google Pixel,536.78,7,18.26,5,TRUE
+924,Giffy,Normanell,80,gnormanellpn@japanpost.jp,Philippines,1656,Google Pixel,806.94,16,20.92,4,TRUE
+925,Fairlie,Witherop,72,fwitheroppo@taobao.com,Portugal,7480-205,iPhone,363.8,13,93.61,4,TRUE
+926,Ellen,Gaize,19,egaizepp@rambler.ru,Vietnam,,Google Pixel,671.65,19,20.8,4,FALSE
+927,Jenda,Bussy,58,jbussypq@jiathis.com,Ukraine,,iPhone,968.85,15,55.07,2,TRUE
+928,Joelie,Hinrichs,18,jhinrichspr@upenn.edu,Russia,241902,Samsung Galaxy,244.68,6,34.09,5,FALSE
+929,Chancey,Gransden,25,cgransdenps@sina.com.cn,Sweden,187 14,Google Pixel,414.84,22,40.48,2,FALSE
+930,Bary,Chelsom,18,bchelsompt@craigslist.org,Indonesia,,Samsung Galaxy,361.38,12,92.9,5,FALSE
+931,Quinton,Pllu,46,qpllupu@tumblr.com,China,,Samsung Galaxy,155.93,3,57.2,2,FALSE
+932,Eldin,Janecki,36,ejaneckipv@dropbox.com,Palestinian Territory,,Samsung Galaxy,736.18,16,28.52,3,TRUE
+933,Crystie,Mettrick,47,cmettrickpw@seattletimes.com,Philippines,2517,Samsung Galaxy,371.46,20,48.97,4,FALSE
+934,Evangelia,Cartner,66,ecartnerpx@tiny.cc,Democratic Republic of the Congo,,Samsung Galaxy,810.8,17,27.59,1,FALSE
+935,Emmaline,Barraclough,23,ebarracloughpy@t.co,Bosnia and Herzegovina,,iPhone,832.48,5,67.72,4,FALSE
+936,Sampson,Artist,70,sartistpz@xing.com,Japan,959-1851,Google Pixel,546.98,12,3.29,5,TRUE
+937,Annmaria,Shoorbrooke,31,ashoorbrookeq0@paginegialle.it,Luxembourg,L-4982,Samsung Galaxy,537.82,3,34.11,1,FALSE
+938,Mollee,Degan,33,mdeganq1@photobucket.com,China,,iPhone,733.42,11,21.68,4,TRUE
+939,Miguel,Orrom,61,morromq2@huffingtonpost.com,Peru,,Google Pixel,207.98,4,83.29,1,FALSE
+940,Francyne,Reed,55,freedq3@mapquest.com,China,,Google Pixel,81.96,5,83.18,3,TRUE
+941,Bev,Tingcomb,50,btingcombq4@flavors.me,Peru,,Samsung Galaxy,298.13,9,27.15,1,TRUE
+942,Fiona,Sewall,85,fsewallq5@mozilla.com,Greece,,Google Pixel,790.26,22,21.39,4,FALSE
+943,Marjorie,Newnham,32,mnewnhamq6@creativecommons.org,Colombia,664008,Samsung Galaxy,174.71,19,38.71,5,FALSE
+944,Gawen,McOrkil,46,gmcorkilq7@webeden.co.uk,United States,78278,Google Pixel,391.19,13,82.26,4,FALSE
+945,Ettie,Garrison,32,egarrisonq8@hud.gov,China,,Google Pixel,605.77,13,80.69,1,TRUE
+946,Phyllida,Doggrell,24,pdoggrellq9@pagesperso-orange.fr,China,,Google Pixel,639.4,5,69.56,1,FALSE
+947,Corabel,Gooder,46,cgooderqa@java.com,Sweden,116 30,iPhone,777.81,2,88.32,3,FALSE
+948,Nanice,Gane,44,nganeqb@google.de,Mauritius,,Google Pixel,371.8,15,43.84,2,FALSE
+949,Goober,Aulds,50,gauldsqc@liveinternet.ru,Netherlands,4619,Google Pixel,207.15,4,33.74,2,TRUE
+950,Ryley,Edgeller,59,redgellerqd@w3.org,Indonesia,,Google Pixel,734.19,3,19.9,3,FALSE
+951,Genevra,Pietri,72,gpietriqe@jalbum.net,China,,Samsung Galaxy,62.15,18,21.34,3,FALSE
+952,Shalne,Catonne,30,scatonneqf@unc.edu,China,,Google Pixel,667.78,24,22.82,1,FALSE
+953,Elberta,Gethins,84,egethinsqg@tamu.edu,Greece,,iPhone,428.17,15,16.98,2,TRUE
+954,Hermy,Flint,59,hflintqh@merriam-webster.com,Russia,416357,Google Pixel,962.27,11,37.35,1,FALSE
+955,Rodger,Abramowsky,43,rabramowskyqi@npr.org,Philippines,2015,Samsung Galaxy,485.34,7,14.03,4,FALSE
+956,Gloriane,Meriguet,85,gmeriguetqj@altervista.org,Pakistan,55261,Google Pixel,404.89,13,62.88,3,TRUE
+957,Moss,Cran,23,mcranqk@oracle.com,Thailand,11140,Samsung Galaxy,598.94,24,97.77,5,FALSE
+958,Clara,Dougary,58,cdougaryql@dedecms.com,China,,Google Pixel,697.97,16,33.34,2,TRUE
+959,Willa,Lynnitt,29,wlynnittqm@dmoz.org,Poland,62-280,Google Pixel,936.59,7,12.18,2,TRUE
+960,Wesley,Bengtson,49,wbengtsonqn@shop-pro.jp,Poland,66-210,Samsung Galaxy,440.72,16,24.63,5,FALSE
+961,Ky,Robrose,84,krobroseqo@nature.com,Macedonia,1040,Google Pixel,307.52,17,53.59,3,FALSE
+962,Augustina,Jaram,53,ajaramqp@upenn.edu,Cape Verde,,Google Pixel,874.45,8,44.68,4,TRUE
+963,Osmund,Korneev,69,okorneevqq@mlb.com,Belarus,,Google Pixel,920.46,7,38.36,3,TRUE
+964,Danni,Glyn,67,dglynqr@smh.com.au,Canada,T8R,iPhone,363.03,13,47.15,5,TRUE
+965,Remy,Zavittieri,25,rzavittieriqs@moonfruit.com,China,,Google Pixel,589.97,2,19.26,5,FALSE
+966,Miguel,Keer,38,mkeerqt@cnbc.com,Chile,,Google Pixel,0.3,15,99.64,4,TRUE
+967,Gabrielle,Linnitt,46,glinnittqu@angelfire.com,Honduras,,Google Pixel,23.38,10,23.08,1,TRUE
+968,Jane,Booty,35,jbootyqv@taobao.com,China,,Samsung Galaxy,501.75,24,20.26,3,FALSE
+969,Griff,Jackett,43,gjackettqw@hao123.com,Mexico,91275,iPhone,571.01,2,17.88,3,TRUE
+970,Kathleen,Dunphy,40,kdunphyqx@dell.com,Peru,,Samsung Galaxy,588.06,10,59.14,1,TRUE
+971,Bert,Hearle,77,bhearleqy@google.pl,Philippines,7006,iPhone,368.76,13,42.93,2,TRUE
+972,Melli,Jestico,27,mjesticoqz@seesaa.net,Indonesia,,Samsung Galaxy,346.89,14,85.75,3,FALSE
+973,Niccolo,Gammie,18,ngammier0@indiatimes.com,China,,iPhone,760.32,21,39.07,2,TRUE
+974,Cleavland,Lovering,57,cloveringr1@cdbaby.com,Philippines,1045,iPhone,806.56,12,44.7,2,FALSE
+975,Marcile,Martino,52,mmartinor2@bizjournals.com,Guatemala,13006,Google Pixel,674.51,10,26.44,4,FALSE
+976,Ardys,Matuska,41,amatuskar3@printfriendly.com,China,,Google Pixel,142.73,14,66.54,2,FALSE
+977,Aretha,MacSporran,68,amacsporranr4@jiathis.com,Peru,,iPhone,458.21,5,63.68,5,TRUE
+978,Berri,Bartolic,41,bbartolicr5@nytimes.com,Ukraine,,iPhone,731.81,4,41.83,4,TRUE
+979,Harrison,Fillimore,38,hfillimorer6@sakura.ne.jp,Marshall Islands,96970,Samsung Galaxy,935.24,6,77.39,3,FALSE
+980,Gregory,Cluelow,71,gcluelowr7@auda.org.au,Palestinian Territory,,iPhone,365.41,10,41.11,5,FALSE
+981,Jaynell,Rosoman,65,jrosomanr8@yale.edu,Russia,692380,iPhone,701.91,17,41.94,2,FALSE
+982,Orlando,Giovannacc@i,54,ogiovannaccir9@taobao.com,Ukraine,,Samsung Galaxy,499.46,3,69.76,1,FALSE
+983,Dorian,Meuse,27,dmeusera@senate.gov,Portugal,4990-565,iPhone,997.04,8,1.93,5,TRUE
+984,Tabitha,Kingstne,52,tkingstnerb@techcrunch.com,China,,iPhone,38.51,2,99.8,3,FALSE
+985,Peggie,Espadas,51,pespadasrc@shinystat.com,Iraq,,Samsung Galaxy,223.8,24,32.75,4,TRUE
+986,Rachelle,Molian,81,rmolianrd@weibo.com,Norway,664,Samsung Galaxy,955.55,14,71,1,TRUE
+987,Kinnie,Ellsworthe,67,kellsworthere@booking.com,Japan,999-8317,Samsung Galaxy,850.67,18,10.98,5,TRUE
+988,Malina,Lighterness,28,mlighternessrf@thetimes.co.uk,New Zealand,2245,Samsung Galaxy,8.25,23,34.76,5,FALSE
+989,Lamar,Allix,49,lallixrg@trellian.com,Indonesia,,iPhone,234.99,13,28.4,1,TRUE
+990,Pattin,Aitken,28,paitkenrh@livejournal.com,Brazil,19200-000,iPhone,829.72,5,26.28,3,FALSE
+991,Sibley,Kornel,52,skornelri@yandex.ru,Indonesia,,Google Pixel,547.91,16,35.98,2,TRUE
+992,Emory,Unwins,39,eunwinsrj@fda.gov,Kazakhstan,,Samsung Galaxy,838.29,13,71.19,4,TRUE
+993,Patin,Dunlop,35,pdunloprk@prnewswire.com,Philippines,4606,Samsung Galaxy,559.53,17,8.23,3,FALSE
+994,Chicky,Dunsire,29,cdunsirerl@sbwire.com,Armenia,,Samsung Galaxy,448.32,24,34.18,4,TRUE
+995,Teresa,Mainson,44,tmainsonrm@paginegialle.it,China,,iPhone,830.7,4,17.78,3,TRUE
+996,Darnell,Oats,75,doatsrn@eventbrite.com,Bangladesh,6602,Google Pixel,316.97,6,90.16,3,TRUE
+997,Sean,Grevel,72,sgrevelro@adobe.com,Equatorial Guinea,,Samsung Galaxy,297.53,16,84.36,4,TRUE
+998,Mitchael,O'Hegertie,78,mohegertierp@nbcnews.com,Indonesia,,Samsung Galaxy,588.53,19,72.74,4,TRUE
+999,Lena,Lumsdon,19,llumsdonrq@acquirethisname.com,China,,iPhone,977.7,4,91.59,3,FALSE
+1000,Bethany,Alesbrook,27,balesbrookrr@wired.com,Philippines,7214,iPhone,874.36,4,99.5,5,FALSE
